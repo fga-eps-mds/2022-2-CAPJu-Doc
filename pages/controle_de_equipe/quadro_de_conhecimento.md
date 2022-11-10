@@ -1,6 +1,6 @@
-## Quadro de conhecimentos
+# Quadro de conhecimentos
 
-### Objetivo
+## Objetivo
 
 O quadro de conhecimentos é uma forma de documentar os conhecimentos técnicos em diversos aspectos dos integrantes do grupo. Ele ajuda nas decisões e definições sobre as tecnologias utilizadas e também na definição de treinamentos e pareamentos de acordo com a afinidade e habilidade de cada integrante. Além disso, ele é um meio de acompanhar e avaliar a evolução de todos integrantes do projeto.
 

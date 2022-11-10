@@ -5,4 +5,4 @@
   - [Sobre](../pages/about.md)
   
   - **Controle de equipe**
-    - [Quadro de Conhecimento](../2022-2-CAPJu-Doc/pages/controle_de_equipe/quadro_de_conhecimento.md)
+    - [Quadro de Conhecimento](../controle_de_equipe/quadro_de_conhecimento.md)
