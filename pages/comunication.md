@@ -19,8 +19,8 @@ O plano de comunicação é uma parte essencial no trabalho em equipe que busca 
         <h5><img src="https://pngimg.com/uploads/github/github_PNG40.png" height="20px" width="20px"> GitHub: Usado como repositório central da documentação e código fonte do projeto.
     <li>
         <h5><img src="https://app.zenhub.com/dist/favicon/apple-touch-icon.png" height="15px" width="15px"> ZenHub: Ferramenta utilizada como quatro Kanban de tarefas para o time.
-<ul>
-<div>
+</ul>
+</div>
 
 ### REUNIÕES
 
