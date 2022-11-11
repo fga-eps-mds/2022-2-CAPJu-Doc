@@ -3,6 +3,7 @@
 - **Menu**
 
   - [Home](pages/home)
+  - [Treinamento](pages/trainning)
   - [Sobre](pages/about)
   
 - **Controle de equipe**
