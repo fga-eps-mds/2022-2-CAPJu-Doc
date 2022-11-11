@@ -6,7 +6,7 @@
 
 ## Contexto
 
-Visando preparar a equipe de desenvolvimento pra a execução do projeto, preparamos treinamentos sobre os principais conceitos a serem abordados no projeto para garantir o conhecimento da equipe sobre o mesmo.
+Visando preparar a equipe de desenvolvimento para a execução do projeto, organizamos treinamentos sobre os principais conceitos a serem abordados no projeto para garantir o conhecimento da equipe sobre o mesmo.
 
 
 ## Git/GitHub
@@ -19,13 +19,7 @@ Visando preparar a equipe de desenvolvimento pra a execução do projeto, prepar
 
 ## Formato do Treinamento
 
-Para melhor compreensão dos participantes do treinameto criamos um [repositório](https://github.com/FranciscoHeronildo/Treinamento-GIT-GITHUB) para executar os comandos ao mesmo tempo que cada um era explicado.
-
-O Treinamento foi realizado via Microsoft Team e para os membros que não participaram foi disponibilizado a gravação da [chamava](https://drive.google.com/file/d/1c_pnLXBxgMqygQxqeAER0HN6f1jDSVk0/view?usp=sharing)
-para que todos tenham acesso.
-
-Além disso, foi proposto um desafio para fixaxão do conteúdo apresentado, desafio esse que encontra-se no repositório criado para o treinamento.
-
+Para melhor compreensão dos participantes do treinameto criamos um [repositório](https://github.com/ilus1/2022-2-CAPJu-Doc) para executar os comandos ao mesmo tempo que cada um era explicado. O treinamento foi realizado via Discord, onde cada integrante alterava parte do código de uma página e realizava o processo de commit para simular as atividades reais no dia a dia de desenvolvimento.
 
 ### Git
 
@@ -45,63 +39,51 @@ Para criar uma cópia de um trabalho em repositório remoto
 
 #### Adicionar arquivos alterados
 
-> git add <arquivo>
+> git add nome.ext
 
-Para inserir todos os arquivos modificados
+Para inserir mais de um arquivo no mesmo diretório
 
-> git add \*
+> git add diretório
 
 #### Confirmar mudanças
 
 > git commit -m "comentario"
 
-> git commit -s
-
-##### inserir Co-authored-by
+##### Inserir Co-authored-by
 
 > Co-authored-by: another-name <Coauther-name@example.com>"
 
 #### Enviando alterações
 
-> git push origin <branch>
+> git push origin branch_name
 
 #### Inserindo repositórorio remoto
 
-> git remote add origin <path>
+> git remote add origin path
 
 #### Ramificando
 
 ##### Para criar uma nova branch
 
-> git checkout -b <branch_name>
+> git checkout -b branch_name
 
 ##### Para alterar de branch
 
-> git checkout <branch_name>
+> git checkout branch_name
 
 ##### Para remover uma branch (LOCAL)
 
-> git branch -d <branch_name>
+> git branch -d branch_name
 
 #### Atualizar repositório local
 
 > git pull
 
-> git pull origin <branch_name>
-
-#### Visualizar diferenças entre branch
-
-> Git diff <branch1> <branch2>
-
 #### Visualizar commits
 
 > git log
 
-#### Sobrescrever alterações locais
-
-> git checkout -- <file>
-
-#### Remover todas alterações locais
+#### Fazer um backup das alterações que ainda não estão finalizadas
 
 > git stash
 
