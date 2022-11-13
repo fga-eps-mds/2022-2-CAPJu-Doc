@@ -14,4 +14,5 @@
 
   - [Quadro de Conhecimento](pages/controle_de_equipe/quadro_de_conhecimento.md)
 
-- **Contribuição**
+- **Guias**
+  - [Guia de Contribuição](pages/controle_de_equipe/quadro_de_conhecimento.md)
