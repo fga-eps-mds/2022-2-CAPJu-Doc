@@ -15,4 +15,4 @@
   - [Quadro de Conhecimento](pages/controle_de_equipe/quadro_de_conhecimento.md)
 
 - **Guias**
-  - [Guia de Contribuição](pages/controle_de_equipe/quadro_de_conhecimento.md)
+  - [Guia de Contribuição](pages/contributing/contributing.md)
