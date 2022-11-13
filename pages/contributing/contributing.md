@@ -62,4 +62,4 @@ Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 
 ## Referência:
 
-> Guia de Contribuição [Over26](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md)
+> Guia de Contribuição [Capju 2022-1](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md)
