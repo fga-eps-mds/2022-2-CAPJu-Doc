@@ -17,7 +17,7 @@ Visando preparar a equipe de desenvolvimento para a execução do projeto, organ
 
 **Membros Participante na Vídeo Chamada**: Ana Luiza Rodrigues, Chaydson Ferreira, Lucas Lopes Frazão, Pedro Henrique Rodrigues de Carvalho e Samuel Gomes
 
-**Temas abordados**: Git init, Git clone, Git add, Git commit, Co-authored-by, Git push, Git remote, Git checkout -b, Git checkout, Git branch, Git branch -d,Git pull, Git log e Git stach.
+**Temas abordados**: Git clone, Git add, Git commit, Co-authored-by, Git push, Git remote, Git checkout -b, Git checkout, Git branch, Git branch -d,Git pull, Git log e Git stash.
 
 ## Formato do Treinamento
 
@@ -26,12 +26,6 @@ Para melhor compreensão dos participantes do treinameto criamos um [repositóri
 ### Git
 
 ---
-
-#### Iniciar um projeto
-
-Para iniciar o git no seu projeto utilize o comando:
-
-> git init
 
 #### Obter um repositório
 
