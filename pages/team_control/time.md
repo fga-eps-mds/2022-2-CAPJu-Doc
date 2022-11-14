@@ -14,4 +14,4 @@ O Mapa de Calor é um artefato que permite visualizar a disponibilidade da equip
 
 | Data       | Versão | Descrição                                                        | Autor(es)               |
 | ---------- | ------ | ---------------------------------------------------------------- | ------------------ |
-| 11/11/2022 | 0.1    | Criação do plano de organização de tempo da equipe               | Samuel G. / Henrique P.   |
+| 11/11/2022 | 0.1.0    | Criação do plano de organização de tempo da equipe               | Samuel G. / Henrique P.   |
