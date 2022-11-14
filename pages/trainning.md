@@ -15,7 +15,9 @@ Visando preparar a equipe de desenvolvimento para a execução do projeto, organ
 
 **Data Realizada**: 10/11/2022
 
-**Membros Participante na Vídeo Chamada**: Ana Luiza Rodrigues, Chaydson Ferreira, Lucas Lopes Frazão, Pedro Henrique Rodrigues de Carvalho e Samuel Gomes  
+**Membros Participante na Vídeo Chamada**: Ana Luiza Rodrigues, Chaydson Ferreira, Lucas Lopes Frazão, Pedro Henrique Rodrigues de Carvalho e Samuel Gomes
+
+**Temas abordados**: Git init, Git clone, Git add, Git commit, Co-authored-by, Git push, Git remote, Git checkout -b, Git checkout, Git branch, Git branch -d,Git pull, Git log e Git stach.
 
 ## Formato do Treinamento
 
@@ -70,6 +72,10 @@ Para inserir mais de um arquivo no mesmo diretório
 ##### Para alterar de branch
 
 > git checkout branch_name
+
+##### Para vizualizar em qual branch se esta trabalhando
+
+> git branch
 
 ##### Para remover uma branch (LOCAL)
 
