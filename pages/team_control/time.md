@@ -10,7 +10,7 @@ O Mapa de Calor é um artefato que permite visualizar a disponibilidade da equip
 As cores auxiliam visualmente a identificação da quantidade de pessoas disponíveis para determinado horário, quanto mais o tom da cor tender para o vermelho significam menos pessoas disponíveis e quanto mais para o verde mais pessoas disponíveis.
 Abaixo também é possível visualizar a grade horária de cada membro da equipe individualmente.
 
-<iframe src="https://docs.google.com/spreadsheets/d/110IbTbCwAQjcmZkGjfTk5G9Xf4vSlMamXA_gOoXT_z4/edit#gid=0" width="100%" height="100%" style="min-width: 850px; min-height: 450px; background-color: #f4f4f4; border: 1px solid #efefef;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTh0BGFORi37QF6E6ZyZilFxJFGmx2U9zgp_c6G0ith2z59_gO4yoaRBf4f1WzxNp47ec_7E5RAzMzH/pubhtml?widget=false&amp;headers=false" width="100%" height="100%" style="min-width: 850px; min-height: 450px; background-color: #f4f4f4; border: 1px solid #efefef;"></iframe>
 
 ## Histórico de Versão
 
