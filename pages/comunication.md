@@ -12,7 +12,7 @@ O plano de comunicação é uma estratégia que pretende determinar os processos
     <li>
         <h5><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" height="20px" width="20px"> Telegram: A principal ferramenta de comunicação entre os membros da equipe onde é discutido assuntos e horários de reuniões, e onde é tirado dúvidas dos integrantes.
     <li>
-        <h5><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="20px" width="20px"> Discord: A ferramenta de comunicação rápida onde ocorre as reuniões com os integrantes.
+        <h5><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="20px" width="20px"> Discord: A ferramenta de comunicação rápida onde ocorre as reuniões com os integrantes e onde ocorre o pair programming.
     <li>
         <h5><img src="https://d1fdloi71mui9q.cloudfront.net/KG6Bw8GRJOgOyoDgxblL_wKaXXL2c0b1Zi2DP" height="20px" width="20px"> Microsoft Teams: Para as reuniões com o cliente e planejamento do time.
     <li>
@@ -31,8 +31,8 @@ A partir da tabela com os horários organizados dos membros, foi definido o hór
 
 Assim, ficou-se definido:
 
-- Reunião com as partes interessadas: Segundas-feiras das 20:30 às 21:30.
-- Revisão da Sprint / planejamentos: Terças-feiras das 20:30 às 22:30.
+- Reunião com o cliente: Segundas-feiras das 20:30 às 21:30.
+- Reunião semanal da equipe: Terças-feiras das 20:30 às 22:30.
 
 ## Histórico de versão
 
