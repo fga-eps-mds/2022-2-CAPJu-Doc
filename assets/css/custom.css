@@ -1,31 +1,32 @@
-.containerComponentesHome {
+.HomeMembros {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.itemContainerComponentesHome {
+.HomeMembroItem {
   text-align: center;
   margin-bottom: 0.5em;
 }
 
-.itemContainerComponentesHome label {
-  text-transform: uppercase;
+.HomeMembroItem figcaption {
+  text-transform: capitalize;
   font-weight: bold;
 }
 
-.itemContainerComponentesHome .foto{
-  width: 18vw;
+
+.HomeMembroItem figcaption{
+  color: #34495E;
 }
 
-.itemContainerComponentesHome .foto img{
-  border-radius: 5%;
-}
-
-.itemContainerComponentesHome label{
-  color: #373B78;
-}
-
-.itemContainerComponentesHome label:hover{
+.HomeMembroItem figcaption:hover{
   cursor: pointer;
+}
+
+.HomeMembroItem .foto{
+  width: 10vw;
+}
+
+.HomeMembroItem .foto img{
+  border-radius: 5%;
 }

@@ -10,93 +10,93 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
 
 ### Integrantes de MDS
 
-<div  class="containerComponentesHome">
-  <a class="itemContainerComponentesHome" href="https://github.com/analuizargds" target="_blank">
+<div  class="HomeMembros">
+  <a class="HomeMembroItem" href="https://github.com/analuizargds" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
+      <figcaption>Ana Luiza Rodrigues</figcaption>
     </figure>
-    <label>Ana Luiza Rodrigues</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/chaydson" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/chaydson" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+      <figcaption>Chaydson Ferreira</figcaption>
     </figure>
-    <label>Chaydson Ferreira</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/HenriPucci" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/HenriPucci" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
+      <figcaption>Henrique Pucci</figcaption>
     </figure>
-    <label>Henrique Pucci</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/LucasLopesFrazao" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/LucasLopesFrazao" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
+      <figcaption>Lucas Frazão</figcaption>
     </figure>
-    <label>Lucas Frazão</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/PedroHenrique2077" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/PedroHenrique2077" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
+      <figcaption>Pedro Henrique Rodrigues</figcaption>
     </figure>
-    <label>Pedro Henrique Rodrigues</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/SamuelGSouza" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/SamuelGSouza" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
+      <figcaption>Samuel Gomes</figcaption>
     </figure>
-    <label>Samuel Gomes</label>
   </a>
 </div>
 
 ### Integrantes de EPS
 
-<div class="containerComponentesHome" >
-  <a class="itemContainerComponentesHome" href="https://github.com/antonioaldisio" target="_blank">
+<div class="HomeMembros" >
+  <a class="HomeMembroItem" href="https://github.com/antonioaldisio" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
+      <figcaption>Antônio Aldísio</figcaption>
     </figure>
-    <label>Antônio Aldísio</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/DaviAntonio" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/DaviAntonio" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
+      <figcaption>Davi Antônio da Silva</figcaption>
     </figure>
-    <label>Davi Antônio da Silva</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/ilus1" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/ilus1" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+      <figcaption>Fernando Miranda</figcaption>
     </figure>
-    <label>Fernando Miranda</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/vitorAlves7" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/vitorAlves7" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+      <figcaption>João Vitor Ferreira</figcaption>
     </figure>
-    <label>João Vitor Ferreira</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/luderibeiro" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/luderibeiro" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+      <figcaption>Lude Yuri de Castro</figcaption>
     </figure>
-    <label>Lude Yuri de Castro</label>
   </a>
 
-  <a class="itemContainerComponentesHome" href="https://github.com/higton" target="_blank">
+  <a class="HomeMembroItem" href="https://github.com/higton" target="_blank">
     <figure class="foto">
       <img  src="https://github.com/higton.png" alt="Foto do Paulo Batista">
+      <figcaption>Paulo Batista</figcaption>
     </figure>
-    <label>Paulo Batista</label>
   </a>
 </div>
 
