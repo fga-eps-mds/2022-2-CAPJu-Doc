@@ -8,3 +8,7 @@
 
   - [Quadro de Conhecimento](pages/team_control/knowledge_table)
   - [Tempo](pages/team_control/time)
+
+- **Guias**
+
+  - [Guia de Contribuição](pages/contributing/contributing.md)
