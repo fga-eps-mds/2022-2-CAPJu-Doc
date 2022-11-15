@@ -1,32 +1,31 @@
-.container {
+.containerComponentesHome {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.item {
+.itemContainerComponentesHome {
   text-align: center;
   margin-bottom: 0.5em;
 }
 
-.item label {
+.itemContainerComponentesHome label {
   text-transform: uppercase;
   font-weight: bold;
 }
 
-.foto {
-  width: 250px;
+.itemContainerComponentesHome .foto{
+  width: 18vw;
 }
 
-.borda {
+.itemContainerComponentesHome .foto img{
   border-radius: 5%;
-  border: 0.3em solid #373b78;
 }
 
-.item label{
+.itemContainerComponentesHome label{
   color: #373B78;
 }
 
-.item label:hover{
+.itemContainerComponentesHome label:hover{
   cursor: pointer;
 }
