@@ -48,18 +48,28 @@ branch padrão **main**, para hospedar o código estável do projeto (que estar�
 
 __gh-pages__: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
 
-* __`docs/nome_documento`__ - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso.
+* __`docs/<issue-id>-<nome_documento>`__ - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso. É preciso especificar o número da _issue_ cadastrada no repositório.
+Exemplo: `docs/1-<nome_documento>` (_issue_ #1)
 
-* __`devel`__ - Branch destinada à integração das novas funcionalidades desenvolvidas, onde estarão as features em estágio avançado e/ou completas. Esta será a branch base para o desenvolvimento inicial de features e de correção de bugs. 
+* __`main`__ - Branch destinada à integração das novas funcionalidades desenvolvidas, onde estarão as features em estágio avançado e/ou completas. Esta será a branch base para o desenvolvimento inicial de features e de correção de bugs. 
 
-* __`hotfix/<nome_bug>`__ - Branch dedicada para correção de bugs presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
+* __`hotfix/<issue-id>-<nome_bug>`__ - Branch dedicada para correção de bugs presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
 Exemplo: `hotfix/1-<nome_bug>` (_issue_ #1)
 
-* __`feature/<feature-name>`__ - Branch usada para desenvolvimento de uma nova feature no projeto. O nome deve conter o número da issue registrada, no formato. 
+* __`feature/<issue-id>-<feature-name>`__ - Branch usada para desenvolvimento de uma nova feature no projeto. O nome deve conter o número da issue registrada, no formato. 
 Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 
 * __`release/<release-version>`__ - Branch destinada à ajustes finais/build que serão feitas para entrega de uma realize do software. O nome deve ser a própria versão da release. 
 
+* __`refactor/<nome_refatoracao>`__ - Branch destinada à ajustes no código que não corrigem um bug e nem adiciona um novo recurso
+
 ## Referência:
 
 > Guia de Contribuição [Capju 2022-1](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md)
+
+**Histórico de Versão**
+
+| Data       | Versão | Descrição                                        | Autor(es)       |
+| ---------- | ------ | ------------------------------------------------ | --------------- |
+| 10/11/2022 | 0.1.0    | Criação do documento              | Paulo Batista |
+| 15/11/2022 | 0.1.1    | Ajustar documento              | Paulo Batista |
