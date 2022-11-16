@@ -10,44 +10,44 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
 
 ### Integrantes de MDS
 
-<div  class="HomeMembros">
-  <a class="HomeMembroItem" href="https://github.com/analuizargds" target="_blank">
-    <figure class="foto">
+<div  class="HomeProfiles">
+  <a class="HomeMemberPhoto" href="https://github.com/analuizargds" target="_blank">
+    <figure>
       <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
       <figcaption>Ana Luiza Rodrigues</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/chaydson" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/chaydson" target="_blank">
+    <figure>
       <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
       <figcaption>Chaydson Ferreira</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/HenriPucci" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/HenriPucci" target="_blank">
+    <figure>
       <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
       <figcaption>Henrique Pucci</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/LucasLopesFrazao" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/LucasLopesFrazao" target="_blank">
+    <figure>
       <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
       <figcaption>Lucas Frazão</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/PedroHenrique2077" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/PedroHenrique2077" target="_blank">
+    <figure>
       <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
-      <figcaption>Pedro Henrique Rodrigues</figcaption>
+      <figcaption>Pedro Henrique</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/SamuelGSouza" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/SamuelGSouza" target="_blank">
+    <figure>
       <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
       <figcaption>Samuel Gomes</figcaption>
     </figure>
@@ -56,44 +56,44 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
 
 ### Integrantes de EPS
 
-<div class="HomeMembros" >
-  <a class="HomeMembroItem" href="https://github.com/antonioaldisio" target="_blank">
-    <figure class="foto">
+<div class="HomeProfiles" >
+  <a class="HomeMemberPhoto" href="https://github.com/antonioaldisio" target="_blank">
+    <figure>
       <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
       <figcaption>Antônio Aldísio</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/DaviAntonio" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/DaviAntonio" target="_blank">
+    <figure>
       <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
       <figcaption>Davi Antônio da Silva</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/ilus1" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/ilus1" target="_blank">
+    <figure>
       <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
       <figcaption>Fernando Miranda</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/vitorAlves7" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/vitorAlves7" target="_blank">
+    <figure>
       <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
       <figcaption>João Vitor Ferreira</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/luderibeiro" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/luderibeiro" target="_blank">
+    <figure>
       <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
       <figcaption>Lude Yuri de Castro</figcaption>
     </figure>
   </a>
 
-  <a class="HomeMembroItem" href="https://github.com/higton" target="_blank">
-    <figure class="foto">
+  <a class="HomeMemberPhoto" href="https://github.com/higton" target="_blank">
+    <figure>
       <img  src="https://github.com/higton.png" alt="Foto do Paulo Batista">
       <figcaption>Paulo Batista</figcaption>
     </figure>

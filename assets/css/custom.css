@@ -1,32 +1,19 @@
-.HomeMembros {
+.HomeProfiles {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.HomeMembroItem {
-  text-align: center;
-  margin-bottom: 0.5em;
-}
-
-.HomeMembroItem figcaption {
+.HomeMemberPhoto figcaption {
   text-transform: capitalize;
   font-weight: bold;
-}
-
-
-.HomeMembroItem figcaption{
   color: #34495E;
+  text-align: center;
+  margin-bottom: 0.5em;
+
 }
 
-.HomeMembroItem figcaption:hover{
-  cursor: pointer;
-}
-
-.HomeMembroItem .foto{
-  width: 10vw;
-}
-
-.HomeMembroItem .foto img{
+.HomeMemberPhoto img{
   border-radius: 5%;
+  width: 10vw;
 }
