@@ -3,9 +3,8 @@
   - [Home](pages/home)
   - [Comunicação](pages/comunication)
   - [Treinamento](pages/trainning)
-  - [Sobre](pages/about)
+  - [EAP](pages/eap)
 
-  
 - **Controle de equipe**
 
   - [Quadro de Conhecimento](pages/team_control/knowledge_table)
