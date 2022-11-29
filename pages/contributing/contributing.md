@@ -57,8 +57,8 @@ Exemplo: `docs/1-<nome_documento>` (_issue_ #1)
 * **`hotfix/<issue-id>-<nome_bug>`** - Branch dedicada para correção de bugs presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
 Exemplo: `hotfix/1-<nome_bug>` (_issue_ #1)
 
-* **`improve/<issue-id>-<nome_bug>`** - Branch dedicada para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `improve/1-<nome_bug>` (_issue_ #1)
+* **`enhacement/<issue-id>-<nome_bug>`** - Branch dedicada para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
+Exemplo: `enhacement/1-<nome_bug>` (_issue_ #1)
 
 * **`feature/<issue-id>-<feature-name>`** - Branch usada para desenvolvimento de uma nova feature no projeto. O nome deve conter o número da issue registrada, no formato.
 Exemplo: `feature/1-<feature-name>` (_issue_ #1)
