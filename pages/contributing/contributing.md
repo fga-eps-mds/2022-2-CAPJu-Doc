@@ -67,11 +67,11 @@ Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 
 * **`refactor/<nome_refatoracao>`** - Branch destinada à ajustes no código que não corrigem um bug e nem adiciona um novo recurso
 
-### Referência
+## Referência
 
 > Guia de Contribuição [Capju 2022-1](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md)
 
-#### Histórico de Versão
+## Histórico de Versão
 
 | Data       | Versão | Descrição                                        | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------ | --------------- |
