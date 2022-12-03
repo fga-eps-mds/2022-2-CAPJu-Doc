@@ -91,13 +91,6 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
       <figcaption>Lude Yuri de Castro</figcaption>
     </figure>
   </a>
-
-  <a class="HomeMemberPhoto" href="https://github.com/higton" target="_blank">
-    <figure>
-      <img  src="https://github.com/higton.png" alt="Foto do Paulo Batista">
-      <figcaption>Paulo Batista</figcaption>
-    </figure>
-  </a>
 </div>
 
 ## Repositórios dos Códigos Fonte do CAPju
@@ -111,3 +104,4 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
 | Data       | Versão | Descrição                                                    | Autor(es)        |
 | ---------- | ------ | ------------------------------------------------------------ | ---------        |
 | 14/11/2022 | 0.1.0  | Listagem dos membros de EPS/MDS e descrição do que é o CAPju | Lucas, Chaydson  |
+| 03/12/2022 | 0.1.1 | Atualização de lista de membro | Antônio Aldisio |
