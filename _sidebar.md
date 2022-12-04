@@ -4,6 +4,10 @@
   - [Comunicação](pages/comunication)
   - [Treinamento](pages/trainning)
   - [Sobre](pages/about)
+  
+- **Planejamento**
+
+  - [Riscos](pages/planning/risks)
 
 - **Controle de equipe**
 
