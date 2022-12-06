@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-O Gerenciamento de riscos do projeto é feito para identificar e trabalhar possíveis riscos que podem causar impacto no desenvolvimento ao longo até o final da execução do projeto. O objetivo de analisar estes riscos e a criação deste documento é para mensurar o impacto possível causado por cada um dos riscos identificados a partir desta analise. Assim podendo diminuir, ou até mesmo eliminar a probabilidade e o impacto caso um desses riscos identificados, evitando impactos negativos ao final do projeto.
+O Gerenciamento de riscos do projeto é feito para identificar e trabalhar possíveis riscos que podem causar impacto no desenvolvimento ao longo e até o final da execução do projeto. O objetivo de analisar estes riscos e a criação deste documento é para mensurar o impacto possível causado por cada um dos riscos identificados a partir desta analise. Assim podendo diminuir, ou até mesmo eliminar a probabilidade e o impacto caso um desses riscos identificados, evitando impactos negativos ao final do projeto.
 
 ### Planejamento de Gerenciamento de Riscos
 
@@ -100,9 +100,13 @@ Para o gerenciamento dos riscos utilizaremos a seguinte planilha:
 
 ## Levantamento dos riscos
 
+<iframe width="100" height="350" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/150137770_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={094a6eb2-dd36-4540-b34e-825f17d0b04e}&action=embedview&wdAllowInteractivity=False&Item=Tabela1"></iframe>
+
 ## Resposta ao riscos
 
-## Burndown de riscos
+<iframe width="60" height="470" frameborder="100" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/150137770_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={094a6eb2-dd36-4540-b34e-825f17d0b04e}&action=embedview&wdAllowInteractivity=False&Item=Tabela2&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+
+<!-- ## Burndown de riscos -->
 
 ## Histórico de Versão
 

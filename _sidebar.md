@@ -8,6 +8,8 @@
 - **Planejamento**
 
   - [Riscos](pages/planning/risks)
+  - [Qualidade](pages/planning/quality)
+  - [Custos](pages/planning/costs)
 
 - **Controle de equipe**
 
