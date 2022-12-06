@@ -10,6 +10,7 @@
   - [Riscos](pages/planning/risks)
   - [Qualidade](pages/planning/quality)
   - [Custos](pages/planning/costs)
+  - [EAP](pages/eap)
 
 - **Controle de equipe**
 

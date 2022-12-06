@@ -7,12 +7,16 @@ assignees: ''
 
 ---
 
-## Descrição da Mudança
+# Titulo
 
+## Descrição.
 
-## Tarefas
-- [ ] Tarefa1
+<!--  ### Issue relacionada com [US <Numero>](link) <Se tiver> -->
 
-## Critérios de Aceitação
+## Como solucionar <Nao necessario>
+  
+## Critérios de aceitação
 
-## Informações Adicionais
+- [ ] Critério 1
+- [ ] Critério 2
+- [ ] Critério 3
