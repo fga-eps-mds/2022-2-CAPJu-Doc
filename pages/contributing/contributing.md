@@ -47,7 +47,7 @@ Objetivando manter a confiabilidade do código fonte do nosso produto, propõe-s
 
 branch padrão **main**, para hospedar o código estável do projeto (que estará em ambiente de homologação);
 
-**gh-pages**: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
+* **gh-pages**: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
 
 * **`docs/<issue-id>-<nome_documento>`** - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso. É preciso especificar o número da _issue_ cadastrada no repositório.
 Exemplo: `docs/1-<nome_documento>` (_issue_ #1)
