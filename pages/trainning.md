@@ -1,11 +1,10 @@
 # Treinamentos
 
-- [Git](#Git)
+- [Git](#gitgithub)
 
 ## Contexto
 
 Visando preparar a equipe de desenvolvimento para a execução do projeto, organizamos treinamentos sobre os principais conceitos a serem abordados no projeto para garantir o conhecimento da equipe sobre o mesmo.
-
 
 ## Git/GitHub
 
@@ -26,25 +25,26 @@ Para melhor compreensão dos participantes do treinameto criamos um [repositóri
 ### Tópicos Estudados
 
 | Comando| Objetivo|
-| :---: | :---: | 
-| git log                                   |  Visualizar commits                            | 
-| git pull                                  |  Atualizar repositório local                   | 
-| git stash                                 |  Arquivar alterações temporariamente           | 
-| git branch                                |  Vizualizar em qual branch se esta trabalhando | 
-| git clone **link**                        |  Criar uma cópia local do repositório remoto   | 
-| git add nome.ext                          |  Adicionar arquivos/diretorio                  | 
-| git commit -m "comentario"                |  Confirmar mudanças                            | 
-| git push origin branch_name               |  Enviar alterações                             | 
-| git remote add origin path                |  Inserir repositórorio remoto                  | 
-| git checkout -b branch_name               |  Criar uma nova branch                         | 
-| git branch -d branch_name                 |  Remover uma branch local                      | 
-| git checkout branch_name                  |  Alterar de branch                             | 
-| Co-authored-by: name `<name@example.com>` |  Inserir Co-autor                              | 
+| :---: | :---: |
+| git log                                   |  Visualizar commits                            |
+| git pull                                  |  Atualizar repositório local                   |
+| git stash                                 |  Arquivar alterações temporariamente           |
+| git branch                                |  Vizualizar em qual branch se esta trabalhando |
+| git clone **link**                        |  Criar uma cópia local do repositório remoto   |
+| git add nome.ext                          |  Adicionar arquivos/diretorio                  |
+| git commit -m "comentario"                |  Confirmar mudanças                            |
+| git push origin branch_name               |  Enviar alterações                             |
+| git remote add origin path                |  Inserir repositórorio remoto                  |
+| git checkout -b branch_name               |  Criar uma nova branch e muda para ela         |
+| git branch -d branch_name                 |  Remover uma branch local                      |
+| git checkout branch_name                  |  Alterar de branch                             |
+| Co-authored-by: name `<name@example.com>` |  Inserir Co-autor                              |
 
 ---
 
-**Histórico de Versão**
+### Histórico de Versão
 
 | Data       | Versão | Descrição                                        | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------ | --------------- |
-| 10/11/2022 | 0.1.0    | Adicionando o treinamento de Git               | Chaydson e Pedro|
+| 10/11/2022 | 0.1.0  | Adicionando o treinamento de Git                 | Chaydson e Pedro|
+| 08/12/2022 | 0.1.1  | Corrigir conceito do git checkout -b             | Davi            |

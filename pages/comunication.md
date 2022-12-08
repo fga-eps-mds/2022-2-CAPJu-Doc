@@ -1,6 +1,5 @@
 # PLANEJAMENTO DE COMUNICAÇÃO DA EQUIPE
 
- 
 ## Introdução
 
 O plano de comunicação é uma estratégia que pretende determinar os processos necessários para assegurar que as informações do projeto sejam planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas, gerenciadas, controladas, monitoradas e finalmente dispostas de maneira oportuna e apropriada.
