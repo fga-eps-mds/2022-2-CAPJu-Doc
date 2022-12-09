@@ -49,30 +49,30 @@ Para mapear os conceitos de histórias de usuário, tarefas, defeitos e melhoria
 
 Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, já que são criados automaticamente pelo GitHub:
 
-- bug
-- documentation
-- duplicate
-- enhancement
-- good first issue
-- help wanted
-- invalid
-- question
-- wontfix
+- **`bug`**
+- **`documentation`**
+- **`duplicate`**
+- **`enhancement`**
+- **`good first issue`**
+- **`help wanted`**
+- **`invalid`**
+- **`question`**
+- **`wontfix`**
 
 As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas:
 
-- HOTFIX `#d73a4a`
-- DOCS `#0075ca`
-- FEATURE `#094EF2`
-- US `#BE71F6`
-- ARQ `#0D5571`
-- DEVOPS `#9014A0`
-- ANALYTICS `#12477F`
-- EASY `#C5DEF5`
-- MEDIUM `#BFD4F2`
-- HARD `#D4C5F9`
-- EPS `#006633`
-- MDS `#0068b4`
+- **`HOTFIX`** `#d73a4a`
+- **`DOCS`** `#0075ca`
+- **`FEATURE`** `#094EF2`
+- **`US`** `#BE71F6`
+- **`ARQ`** `#0D5571`
+- **`DEVOPS`** `#9014A0`
+- **`ANALYTICS`** `#12477F`
+- **`EASY`** `#C5DEF5`
+- **`MEDIUM`** `#BFD4F2`
+- **`HARD`** `#D4C5F9`
+- **`EPS`** `#006633`
+- **`MDS`** `#0068b4`
 
 ## Política de _Branches_
 
