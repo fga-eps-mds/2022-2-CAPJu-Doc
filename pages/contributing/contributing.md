@@ -12,17 +12,27 @@ Todo mundo é bem vindo para contribuir com o projeto CAPJu - Controle de Acompa
 
 ---
 
-## Crie sua _Issue_
+## Crie seu Problema (_Issue_)
 
-* Para criar um nova issue é necessário seguir o template da [_issue_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/) que foi criado para este projeto. Antes de criar qualquer issue, verifique se já existe alguma parecida que já foi criada na [_lista de issues_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues).
+Para criar um novo problema (*issue*) é necessário seguir o [padrão](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/) criado para este projeto.
 
-## Crie um Pull Request
+Antes de criar qualquer *issue*, verifique se já existe algo parecido na [lista de *issues*](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues).
+
+Todos os problemas (*issues*) devem ser criados no [repositório de documentação](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc), mesmo que sejam referentes a histórias de usuário, tarefas, melhorias e correções de defeitos nos outros repositórios do projeto.
+
+## Crie uma solicitação de *Pull/Merge* (*pull request*)
+
+Para criar uma solicitação para que as modificações que realizou em sua ramificação sejam integradas ao código, é necessário seguir os passos abaixo: 
 
 1. Primeiramente, é necessário que uma issue tenha sido criada na lista de [_Issues_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues).
 
 2. Caso não exista, será preciso criar uma [_Nova Issue_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/new/).
 
 3. Todas as suas mudanças devem ser submetidas por meio de [_Pull Requests_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/pulls).
+
+Recomenda-se adotar a [sintaxe para fechamento automático](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) dos problemas (*issues*) assim que as modificações no código forem aceitas. Além disso, é recomendável que a mensagem da solicitação de mesclagem seja escrita já pensando que ela será incluída pelo GitHub no *merge commit*.
+
+As políticas atuais exigem que no mínimo dois membros da equipe validem as modificações a serem aplicadas ao código. Apenas com a aprovação desse quórum que será possível aceitar as modificações e mesclá-las (*merge*) ao código na ramificação principal.
 
 ## Política de _Commits_
 
