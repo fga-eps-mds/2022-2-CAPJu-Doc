@@ -116,9 +116,10 @@ Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 
 ## Histórico de Versão
 
-| Data       | Versão   | Descrição                                         | Autor(es)       |
-| ---------- | ------   | ------------------------------------------------- | --------------- |
-| 10/11/2022 | 0.1.0    | Criação do documento                              | Paulo Batista   |
-| 15/11/2022 | 0.1.1    | Ajustar documento                                 | Paulo Batista   |
-| 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias            | Lude Ribeiro    |
-| 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo   | Davi Antônio    |
+| Data       | Versão   | Descrição                                               | Autor(es)       |
+| ---------- | ------   | ------------------------------------------------------- | --------------- |
+| 10/11/2022 | 0.1.0    | Criação do documento                                    | Paulo Batista   |
+| 15/11/2022 | 0.1.1    | Ajustar documento                                       | Paulo Batista   |
+| 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias                  | Lude Ribeiro    |
+| 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo         | Davi Antônio    |
+| 09/12/2022 | 0.2.2    | Explicar rótulos, inclusão de *issues* e escrita de PRs | Davi Antônio    |
