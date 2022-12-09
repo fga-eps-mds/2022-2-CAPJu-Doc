@@ -59,20 +59,20 @@ Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, j�
 - **`question`**: indica que um problema (*issue*), *pull/merge request*, ou uma discussão precisam de mais informções
 - **`wontfix`**: indica que o trabalho não continuará em um problema (*issue*), *pull/merge request* ou discussão
 
-As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas:
+As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas na notação HTML (valores hexadecimais dos canais vermelho, verde e azul com resolução de 8 bits):
 
-- **`HOTFIX`** `#d73a4a`
-- **`DOCS`** `#0075ca`
-- **`FEATURE`** `#094EF2`
-- **`US`** `#BE71F6`
-- **`ARQ`** `#0D5571`
-- **`DEVOPS`** `#9014A0`
-- **`ANALYTICS`** `#12477F`
-- **`EASY`** `#C5DEF5`
-- **`MEDIUM`** `#BFD4F2`
-- **`HARD`** `#D4C5F9`
-- **`EPS`** `#006633`
-- **`MDS`** `#0068b4`
+- **`HOTFIX`** (cor `#d73a4a`): indica uma correção de defeitos críticos
+- **`DOCS`** (cor `#0075ca`): indica a aplicação de melhorias ou adições à documentação do projeto
+- **`FEATURE`** (cor `#094EF2`): indica a introdução de uma funcionalidade nova
+- **`US`** (cor `#BE71F6`): indica que o problema (*issue*) é uma história de usuário (*user story*)
+- **`ARQ`** (cor `#0D5571`): indica mudanças na arquitetura da aplicação ou de um de seus módulos ou serviços
+- **`DEVOPS`** (cor `#9014A0`): indica mudanças na esteira de integração e disponibilização contínua
+- **`ANALYTICS`** (cor `#12477F`): indica mudanças nos analisadores estáticos
+- **`EASY`** (cor `#C5DEF5`): indica que o problema tem uma dificuldade baixa
+- **`MEDIUM`** (cor `#BFD4F2`): indica que o problema possui um grau médio de dificuldade
+- **`HARD`** (cor `#D4C5F9`): indica que o problema possui um alto grau de dificuldade
+- **`EPS`** `#006633`: indica que o problema será trabalhado por alunos da disciplina de Engenharia de Produto de Software (EPS)
+- **`MDS`** (cor `#0068b4`): indica que o problema será trabalhado por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS)
 
 ## Política de _Branches_
 
