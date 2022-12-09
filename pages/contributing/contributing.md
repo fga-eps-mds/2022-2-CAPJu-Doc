@@ -41,6 +41,39 @@ Para criar o commit é necessário seguir as seguintes regras:
 
 > `git commit -m 'hotfix-Mensagem'`
 
+## Rotulagem das *Issues*
+
+Para mapear os conceitos de histórias de usuário, tarefas, defeitos e melhorias no sistema baseado em *issues* do GitHub, adotou-se um sistema de rótulos ou etiquetas. Essas etiquetas devem ser usadas para categorizar todas as *issues* que serão cadastradas no repositório.
+
+### Rótulos disponíveis
+
+Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, já que são criados automaticamente pelo GitHub:
+
+- bug
+- documentation
+- duplicate
+- enhancement
+- good first issue
+- help wanted
+- invalid
+- question
+- wontfix
+
+As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas:
+
+- HOTFIX `#d73a4a`
+- DOCS `#0075ca`
+- FEATURE `#094EF2`
+- US `#BE71F6`
+- ARQ `#0D5571`
+- DEVOPS `#9014A0`
+- ANALYTICS `#12477F`
+- EASY `#C5DEF5`
+- MEDIUM `#BFD4F2`
+- HARD `#D4C5F9`
+- EPS `#006633`
+- MDS `#0068b4`
+
 ## Política de _Branches_
 
 Objetivando manter a confiabilidade do código fonte do nosso produto, propõe-se o uso de uma política de branches para orientar os desenvolvedores no modo de organização das suas contribuições neste repositório. Assim, estabelecemos:
