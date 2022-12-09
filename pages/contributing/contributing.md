@@ -47,17 +47,17 @@ Para mapear os conceitos de histórias de usuário, tarefas, defeitos e melhoria
 
 ### Rótulos disponíveis
 
-Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, já que são criados automaticamente pelo GitHub:
+Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, já que são criados [automaticamente](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) pelo GitHub:
 
-- **`bug`**
-- **`documentation`**
-- **`duplicate`**
-- **`enhancement`**
-- **`good first issue`**
-- **`help wanted`**
-- **`invalid`**
-- **`question`**
-- **`wontfix`**
+- **`bug`**: indica um problema ou comportamento inesperados
+- **`documentation`**: indica a necessidade de melhorias ou adições à documentação
+- **`duplicate`**: indica problemas (*issues*), discussões ou *pull/merge requests* semelhantes
+- **`enhancement`**: indica pedidos para novas funcionalidades (*features*)
+- **`good first issue`**: indica bons problemas (*issues*) para contribuidores iniciantes
+- **`help wanted`**: indica que um mantenedor precisa de ajuda com um problema (*issue*) ou *pull/merge request*
+- **`invalid`**: indica que um problema (*issue*), discussão, ou *pull/merge request* se tornou irrelevante
+- **`question`**: indica que um problema (*issue*), *pull/merge request*, ou uma discussão precisam de mais informções
+- **`wontfix`**: indica que o trabalho não continuará em um problema (*issue*), *pull/merge request* ou discussão
 
 As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas:
 
