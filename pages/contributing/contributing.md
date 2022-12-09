@@ -41,9 +41,9 @@ Para criar o commit é necessário seguir as seguintes regras:
 
 > `git commit -m 'hotfix-Mensagem'`
 
-## Rotulagem das *Issues*
+## Rotulagem dos problemas (*Issues*)
 
-Para mapear os conceitos de histórias de usuário, tarefas, defeitos e melhorias no sistema baseado em *issues* do GitHub, adotou-se um sistema de rótulos ou etiquetas. Essas etiquetas devem ser usadas para categorizar todas as *issues* que serão cadastradas no repositório.
+Para mapear os conceitos de histórias de usuário, tarefas, defeitos e melhorias no sistema baseado em problemas (*issues*) do GitHub, adotou-se um sistema de rótulos ou etiquetas. Essas etiquetas devem ser usadas para categorizar todos os problemas (*issues*) que serão cadastrados no repositório.
 
 ### Rótulos disponíveis
 
@@ -51,13 +51,13 @@ Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, j�
 
 - **`bug`**: indica um problema ou comportamento inesperados
 - **`documentation`**: indica a necessidade de melhorias ou adições à documentação
-- **`duplicate`**: indica problemas (*issues*), discussões ou *pull/merge requests* semelhantes
+- **`duplicate`**: indica problemas (*issues*), discussões ou solicitações de *pull/merge* semelhantes
 - **`enhancement`**: indica pedidos para novas funcionalidades (*features*)
 - **`good first issue`**: indica bons problemas (*issues*) para contribuidores iniciantes
-- **`help wanted`**: indica que um mantenedor precisa de ajuda com um problema (*issue*) ou *pull/merge request*
-- **`invalid`**: indica que um problema (*issue*), discussão, ou *pull/merge request* se tornou irrelevante
-- **`question`**: indica que um problema (*issue*), *pull/merge request*, ou uma discussão precisam de mais informções
-- **`wontfix`**: indica que o trabalho não continuará em um problema (*issue*), *pull/merge request* ou discussão
+- **`help wanted`**: indica que um mantenedor precisa de ajuda com um problema (*issue*) ou solicitação de *pull/merge*
+- **`invalid`**: indica que um problema (*issue*), discussão, ou solicitação de *pull/merge* se tornou irrelevante
+- **`question`**: indica que um problema (*issue*), solicitação de *pull/merge*, ou uma discussão precisam de mais informções
+- **`wontfix`**: indica que o trabalho não continuará em um problema (*issue*), solicitação de *pull/merge* ou discussão
 
 As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas na notação HTML (valores hexadecimais dos canais vermelho, verde e azul com resolução de 8 bits):
 
