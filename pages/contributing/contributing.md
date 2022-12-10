@@ -12,17 +12,27 @@ Todo mundo é bem vindo para contribuir com o projeto CAPJu - Controle de Acompa
 
 ---
 
-## Crie sua _Issue_
+## Crie seu Problema (_Issue_)
 
-* Para criar um nova issue é necessário seguir o template da [_issue_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/) que foi criado para este projeto. Antes de criar qualquer issue, verifique se já existe alguma parecida que já foi criada na [_lista de issues_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues).
+Para criar um novo problema (*issue*) é necessário seguir o [padrão](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/) criado para este projeto.
 
-## Crie um Pull Request
+Antes de criar qualquer *issue*, verifique se já existe algo parecido na [lista de *issues*](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues).
+
+Todos os problemas (*issues*) devem ser criados no [repositório de documentação](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc), mesmo que sejam referentes a histórias de usuário, tarefas, melhorias e correções de defeitos nos outros repositórios do projeto.
+
+## Crie uma solicitação de *Pull/Merge* (*pull request*)
+
+Para criar uma solicitação para que as modificações que realizou em sua ramificação sejam integradas ao código, é necessário seguir os passos abaixo: 
 
 1. Primeiramente, é necessário que uma issue tenha sido criada na lista de [_Issues_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues).
 
 2. Caso não exista, será preciso criar uma [_Nova Issue_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/new/).
 
 3. Todas as suas mudanças devem ser submetidas por meio de [_Pull Requests_](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/pulls).
+
+Recomenda-se adotar a [sintaxe para fechamento automático](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) dos problemas (*issues*) assim que as modificações no código forem aceitas. Além disso, é recomendável que a mensagem da solicitação de mesclagem seja escrita já pensando que ela será incluída pelo GitHub no *merge commit*.
+
+As políticas atuais exigem que no mínimo dois membros da equipe validem as modificações a serem aplicadas ao código. Apenas com a aprovação desse quórum que será possível aceitar as modificações e mesclá-las (*merge*) ao código na ramificação principal.
 
 ## Política de _Commits_
 
@@ -40,6 +50,39 @@ Para criar o commit é necessário seguir as seguintes regras:
 * No caso de uma correção de bugs, a mensagem deve começar com hotfix.
 
 > `git commit -m 'hotfix-Mensagem'`
+
+## Rotulagem dos problemas (*Issues*)
+
+Para mapear os conceitos de histórias de usuário, tarefas, defeitos e melhorias no sistema baseado em problemas (*issues*) do GitHub, adotou-se um sistema de rótulos ou etiquetas. Essas etiquetas devem ser usadas para categorizar todos os problemas (*issues*) que serão cadastrados no repositório.
+
+### Rótulos disponíveis
+
+Os seguintes rótulos foram cadastrados em todos os repositórios do projeto, já que são criados [automaticamente](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) pelo GitHub:
+
+- **`bug`**: indica um problema ou comportamento inesperados
+- **`documentation`**: indica a necessidade de melhorias ou adições à documentação
+- **`duplicate`**: indica problemas (*issues*), discussões ou solicitações de *pull/merge* semelhantes
+- **`enhancement`**: indica pedidos para novas funcionalidades (*features*)
+- **`good first issue`**: indica bons problemas (*issues*) para contribuidores iniciantes
+- **`help wanted`**: indica que um mantenedor precisa de ajuda com um problema (*issue*) ou solicitação de *pull/merge*
+- **`invalid`**: indica que um problema (*issue*), discussão, ou solicitação de *pull/merge* se tornou irrelevante
+- **`question`**: indica que um problema (*issue*), solicitação de *pull/merge*, ou uma discussão precisam de mais informções
+- **`wontfix`**: indica que o trabalho não continuará em um problema (*issue*), solicitação de *pull/merge* ou discussão
+
+As etiquetas a seguir também são cadastradas em todos os repositórios, mas são customizadas e possuem cores determinadas na notação HTML (valores hexadecimais dos canais vermelho, verde e azul com resolução de 8 bits):
+
+- **`HOTFIX`** (cor `#d73a4a`): indica uma correção de defeitos críticos
+- **`DOCS`** (cor `#0075ca`): indica a aplicação de melhorias ou adições à documentação do projeto
+- **`FEATURE`** (cor `#094EF2`): indica a introdução de uma funcionalidade nova
+- **`US`** (cor `#BE71F6`): indica que o problema (*issue*) é uma história de usuário (*user story*)
+- **`ARQ`** (cor `#0D5571`): indica mudanças na arquitetura da aplicação ou de um de seus módulos ou serviços
+- **`DEVOPS`** (cor `#9014A0`): indica mudanças na esteira de integração e disponibilização contínua
+- **`ANALYTICS`** (cor `#12477F`): indica mudanças nos analisadores estáticos
+- **`EASY`** (cor `#C5DEF5`): indica que o problema tem uma dificuldade baixa
+- **`MEDIUM`** (cor `#BFD4F2`): indica que o problema possui um grau médio de dificuldade
+- **`HARD`** (cor `#D4C5F9`): indica que o problema possui um alto grau de dificuldade
+- **`EPS`** `#006633`: indica que o problema será trabalhado por alunos da disciplina de Engenharia de Produto de Software (EPS)
+- **`MDS`** (cor `#0068b4`): indica que o problema será trabalhado por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS)
 
 ## Política de _Branches_
 
@@ -73,9 +116,10 @@ Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 
 ## Histórico de Versão
 
-| Data       | Versão   | Descrição                                         | Autor(es)       |
-| ---------- | ------   | ------------------------------------------------- | --------------- |
-| 10/11/2022 | 0.1.0    | Criação do documento                              | Paulo Batista   |
-| 15/11/2022 | 0.1.1    | Ajustar documento                                 | Paulo Batista   |
-| 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias            | Lude Ribeiro    |
-| 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo   | Davi Antônio    |
+| Data       | Versão   | Descrição                                               | Autor(es)       |
+| ---------- | ------   | ------------------------------------------------------- | --------------- |
+| 10/11/2022 | 0.1.0    | Criação do documento                                    | Paulo Batista   |
+| 15/11/2022 | 0.1.1    | Ajustar documento                                       | Paulo Batista   |
+| 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias                  | Lude Ribeiro    |
+| 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo         | Davi Antônio    |
+| 09/12/2022 | 0.2.2    | Explicar rótulos, inclusão de *issues* e escrita de PRs | Davi Antônio    |
