@@ -10,7 +10,6 @@
   color: #34495E;
   text-align: center;
   margin-bottom: 0.5em;
-
 }
 
 .HomeMemberPhoto img{
@@ -27,6 +26,7 @@
 .TablePhotoColumn {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .SprintPairingTables {

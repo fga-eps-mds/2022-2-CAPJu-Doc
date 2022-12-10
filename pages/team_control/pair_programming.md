@@ -299,7 +299,7 @@ A programação em pares oferece diversos benefícios, como:
                     <td>
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/33">
                             Configurar etiquetas no Github
-                        </a>
+                        </a></br>
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/33">
                             Configurar etiquetas no Github
                         </a>
@@ -321,7 +321,10 @@ A programação em pares oferece diversos benefícios, como:
                     </td>
                     <td>
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-service/issues/5">
-                            Preparação do Banco de Dados
+                            Atualizar documento de comunicação
+                        </a></br>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/8">
+                            Atualização do documento de arquitetura
                         </a>
                     </td>
                 </tr>
@@ -334,8 +337,8 @@ A programação em pares oferece diversos benefícios, como:
 ## Referências
 
 
-* [Pair Programming](https://www.agilealliance.org/glossary/pairing/)
-* [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+* AGILEALLIANCE. **Pair Programming**. Disponível em: https://www.agilealliance.org/glossary/pairing/. Acesso em: 10 de dezembro de 2021.
+* WIKIPEDIA. **Pair Programming**. Disponível em: https://en.wikipedia.org/wiki/Pair_programming. Acesso em: 10 de dezembro de 2021.
 
 ## Histórico de versão
 
