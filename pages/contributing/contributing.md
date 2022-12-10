@@ -84,31 +84,46 @@ As etiquetas a seguir também são cadastradas em todos os repositórios, mas s�
 - **`EPS`** `#006633`: indica que o problema será trabalhado por alunos da disciplina de Engenharia de Produto de Software (EPS)
 - **`MDS`** (cor `#0068b4`): indica que o problema será trabalhado por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS)
 
-## Política de _Branches_
+## Política de Ramificações (*branches*)
 
-Objetivando manter a confiabilidade do código fonte do nosso produto, propõe-se o uso de uma política de branches para orientar os desenvolvedores no modo de organização das suas contribuições neste repositório. Assim, estabelecemos:
+Objetivando facilitar a execução da disciplina de Gerência de Configuração de Software, optou-se pelo estabelecimento de uma Política para regulamentar o uso do recurso de ramificações (*branches*) do sistema de controle de versões Git. A Política escolhida é baseada na [Gitlab FLow](https://docs.gitlab.com/ee/topics/gitlab_flow.html), que conta com ramificações para implementação de novas funcionalidades [(*feature branches*)](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), uma *branch* para estabilização do código e integração das funcionalidades, e outra para versionar código de produção, que passou por testes e validação do cliente. Como haverá somente uma versão estável em uso pelo cliente, optou-se por não usar múltiplas *branches* de produção.
 
-branch padrão **main**, para hospedar o código estável do projeto (que estará em ambiente de homologação);
+### A ramificação principal (`main`)
 
-* **gh-pages**: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
+A *branch* principal, `main`, hospeda o código estável do projeto em todos os repositórios. Todos os *commits* na `main` implementam as funcionalidades de maneira que já possam ser executadas em ambiente de produção.
 
-* **`docs/<issue-id>-<nome_documento>`** - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `docs/1-<nome_documento>` (_issue_ #1)
+As novas versões (*releases*) são lançadas através da marcação com rótulos anotados [(*annotaded tags*)](https://git-scm.com/book/en/v2/Git-Basics-Tagging) do Git. Prefere-se o uso dos rótulos anotados, gerados pelo comando `git tag -a nome-tag`, aos rótulos comuns (*lightweight tags*), gerados pelo `git tag nome-tag`, pois são objetos separados no sistema de versão, e guardam dados de quem os gerou.
 
-* **`main`** - Branch destinada à integração das novas funcionalidades desenvolvidas, onde estarão as features em estágio avançado e/ou completas. Esta será a branch base para o desenvolvimento inicial de features e de correção de bugs.
+### Ramificação para página Web
 
-* **`hotfix/<issue-id>-<nome_bug>`** - Branch dedicada para correção de bugs presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `hotfix/1-<nome_bug>` (_issue_ #1)
+A *branch* `gh-pages` é usada para disponibilizar a documentação do projeto em formato Web. Essa documentação é hospedada em um repositório específico e é disponibilizada pelo serviço [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/).
 
-* **`enhacement/<issue-id>-<nome_bug>`** - Branch dedicada para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `enhacement/1-<nome_bug>` (_issue_ #1)
+### Ramificação para integração e homologação (`devel`)
 
-* **`feature/<issue-id>-<feature-name>`** - Branch usada para desenvolvimento de uma nova feature no projeto. O nome deve conter o número da issue registrada, no formato.
-Exemplo: `feature/1-<feature-name>` (_issue_ #1)
+A *branch* `devel` será usada para integração de novas funcionalidades e homologação. Ela é inicializada a partir da `main`, e continua paralela a essa integrando as novas funcionalidades. Quando o código é homologado, ocorre uma operação de mesclagem (*merge*) da `devel` na `main`.
 
-* **`release/<release-version>`** - Branch destinada à ajustes finais/build que serão feitas para entrega de uma realize do software. O nome deve ser a própria versão da release.
+### Ramificações para novas funcionalidades (*feature branches*) de documentação
 
-* **`refactor/<nome_refatoracao>`** - Branch destinada à ajustes no código que não corrigem um bug e nem adiciona um novo recurso
+No repositório de documentação, as funcionalidades são iniciadas nas ramificações que possuem o nome que segue o padrão: `docs/<issue-id>-<desrição>`.
+
+**Exemplo**: `docs/1-inicializa-repositorio`
+
+### Ramificações para novas funcionalidades (*feature branches*) gerais
+
+Há outras situações previstas para o uso das ramificações de novas funcionalidades: aplicar correções urgentes, melhorias, refatorações ou implementar funcionalidades novas. É importante nomear as *branches* de acordo com o padrão indicado na política, pois depois de integradas na `devel`, estas serão apagadas, e serão documentadas somente com seus nomes nos *merge commits*.
+
+Abaixo segue a lista dos padrões de nomenclatura e os respectivos tipos de funcionalidade:
+
+* **`hotfix/<issue-id>-<nome_bug>`**: usado para funcionalidades de correção de defeitos. É preciso especificar o número da _issue_ cadastrada no repositório de documentação.
+**Exemplo**: `hotfix/1-tela-inexistente` (_issue_ #1)
+
+* **`enhacement/<issue-id>-<nome_bug>`**: usado para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
+**Exemplo**: `enhacement/1-adiciona-icones`
+
+* **`feature/<issue-id>-<feature-name>`**: usado para funcionalidades novas. O nome deve conter o número da issue registrada, no formato.
+Exemplo: `feature/1-estrutura-generica-de-listas-ligadas`
+
+* **`refactor/<nome_refatoracao>`**: usado para ajustes no código que não corrigem defeitos e nem adicionam novas funcionalidades.
 
 ## Referência
 
