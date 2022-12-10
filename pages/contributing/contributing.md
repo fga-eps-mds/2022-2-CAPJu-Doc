@@ -47,7 +47,7 @@ Objetivando manter a confiabilidade do código fonte do nosso produto, propõe-s
 
 branch padrão **main**, para hospedar o código estável do projeto (que estará em ambiente de homologação);
 
-**gh-pages**: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
+* **gh-pages**: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
 
 * **`docs/<issue-id>-<nome_documento>`** - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso. É preciso especificar o número da _issue_ cadastrada no repositório.
 Exemplo: `docs/1-<nome_documento>` (_issue_ #1)
@@ -73,8 +73,9 @@ Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição                                        | Autor(es)       |
-| ---------- | ------ | ------------------------------------------------ | --------------- |
-| 10/11/2022 | 0.1.0    | Criação do documento                           | Paulo Batista |
-| 15/11/2022 | 0.1.1    | Ajustar documento                              | Paulo Batista |
-| 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias         | Lude Ribeiro  |
+| Data       | Versão   | Descrição                                         | Autor(es)       |
+| ---------- | ------   | ------------------------------------------------- | --------------- |
+| 10/11/2022 | 0.1.0    | Criação do documento                              | Paulo Batista   |
+| 15/11/2022 | 0.1.1    | Ajustar documento                                 | Paulo Batista   |
+| 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias            | Lude Ribeiro    |
+| 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo   | Davi Antônio    |

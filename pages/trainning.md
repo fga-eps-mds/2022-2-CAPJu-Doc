@@ -35,7 +35,7 @@ Para melhor compreensão dos participantes do treinameto criamos um [repositóri
 | git commit -m "comentario"                |  Confirmar mudanças                            |
 | git push origin branch_name               |  Enviar alterações                             |
 | git remote add origin path                |  Inserir repositórorio remoto                  |
-| git checkout -b branch_name               |  Criar uma nova branch                         |
+| git checkout -b branch_name               |  Criar uma nova branch e muda para ela         |
 | git branch -d branch_name                 |  Remover uma branch local                      |
 | git checkout branch_name                  |  Alterar de branch                             |
 | Co-authored-by: name `<name@example.com>` |  Inserir Co-autor                              |
@@ -47,3 +47,4 @@ Para melhor compreensão dos participantes do treinameto criamos um [repositóri
 | Data       | Versão | Descrição                                        | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------ | --------------- |
 | 10/11/2022 | 0.1.0  | Adicionando o treinamento de Git                 | Chaydson e Pedro|
+| 08/12/2022 | 0.1.1  | Corrigir conceito do git checkout -b             | Davi            |
