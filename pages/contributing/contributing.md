@@ -121,9 +121,11 @@ Abaixo segue a lista dos padrões de nomenclatura e os respectivos tipos de func
 **Exemplo**: `enhacement/1-adiciona-icones`
 
 * **`feature/<issue-id>-<feature-name>`**: usado para funcionalidades novas. O nome deve conter o número da issue registrada, no formato.
-Exemplo: `feature/1-estrutura-generica-de-listas-ligadas`
+**Exemplo**: `feature/1-estrutura-generica-de-listas-ligadas`
 
 * **`refactor/<nome_refatoracao>`**: usado para ajustes no código que não corrigem defeitos e nem adicionam novas funcionalidades.
+**Exemplo**: `refactor/daos`
+
 
 ## Referência
 
