@@ -17,3 +17,19 @@
   border-radius: 5%;
   width: 10vw;
 }
+
+.PairingPhoto img {
+  border-radius: 15px;
+  width: 50px;
+  height: 50px;
+}
+
+.TablePhotoColumn {
+  display: flex;
+  align-items: center;
+}
+
+.SprintPairingTables {
+  display: flex;
+  justify-content: space-around;
+}
