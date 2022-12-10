@@ -4,6 +4,7 @@
   - [Comunicação](pages/comunication)
   - [Treinamento](pages/trainning)
   - [EAP](pages/eap)
+  - [Protótipos](pages/prototypes)
 
 - **Controle de equipe**
 

@@ -1,0 +1,32 @@
+# Prototipagem
+
+## Introdução
+
+Com a finalidade de demonstrar as caracteristicas visuais de funcionamento do sistema, a tecnica de prototipagem busca criar uma versão preliminar do sistema, mesmo que apenas em sua aparência. Com o objetivo de demonstrar a viabilidade do projeto, a prototipagem é uma das etapas do processo de desenvolvimento de software, colocando em prática as idéias que são geradas durante a fase de análise e projeto, aumentando o engajamento e o valor gerado para o cliente.
+
+Com essa representação visual do projeto, a equipe pode expor para o cliente as funcionalidades do sistema, e assim, obter um feedback mais preciso sobre o que deve ser melhorado ou alterado. A prototipagem é uma ferramenta que auxilia na compreensão do sistema, e também na identificação de possíveis problemas, ou inconsistências, que podem surgir durante o desenvolvimento.
+
+A prototipagem pode ser dividida em tres tipos:
+
+- **Prototipagem de baixa fidelidade**: análogo a um rascunho, são desenhos geralmente feitos à mão, que buscam uma rápida interação com o cliente, para que seja possível obter um feedback mais preciso sobre o que deve ser melhorado ou alterado.
+- **Prototipagem de média fidelidade**: protótipos que exigem mais trabalho, e que simulam partes do comportamento do sistema.
+- **Prototipagem de alta fidelidade**: são protótipos que tem grande semelhança com a implementação final do sistema, e que podem ser utilizados para uma validação mais precisa do sistema.
+
+## Protótipos
+
+| Funcionalidade | Responsável | Protótipo |
+| :---: | :---: | :---: |
+| Unidades, Fluxos, Perfis, Processos | [Equipe CAPju 2022-1](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/?id=capju)  | [Figma](https://www.figma.com/file/7alUqTcWlfrxquXZbyhxjz/CAPJu)  |
+| Anotações | [Lucas](https://github.com/LucasLopesFrazao) e [Chaydson](https://github.com/chaydson) |[Figma](https://www.figma.com/file/RiXVNKDjh79kkChz1LHnph/MDS-(CAPju)?node-id=0%3A1&t=kHXQSPijg4X3bhVG-1) |
+
+## Referências
+
+* TREINAWEB. **Como funciona a prototipação no desenvolvimento de software?**. Disponível em: https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software. Acesso em: 10 de dezembro de 2022.
+* MEDIUM. **Prototipagem de Software**. Disponível em: https://medium.com/contexto-delimitado/prototipagem-de-software-7ac07027e6d8. Acesso em: 10 de dezembro de 2022.
+
+
+### Histórico de Versão
+
+| Data       | Versão | Descrição                                        | Autor(es)       |
+| ---------- | ------ | ------------------------------------------------ | --------------- |
+| 10/12/2022 | 0.1.0  | Primeira versão do documento                | Fernando M. |
