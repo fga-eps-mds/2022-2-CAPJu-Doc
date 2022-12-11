@@ -12,7 +12,7 @@ O processo de de planejamento do gerenciamento de riscos é o processo que defin
 
 ### Identificação dos Riscos
 
-O PMBOK define esta fase como o processo de identificação para determinar e documentar os riscos que podem afetar o projeto e suas caracteristicas.
+O [PMBOK] define esta fase como o processo de identificação para determinar e documentar os riscos que podem afetar o projeto e suas caracteristicas.
 
 #### Estrutura Análitica de Riscos
 
@@ -49,7 +49,7 @@ O PMBOK define esta fase como o processo de identificação para determinar e do
 
 ### Analise dos Riscos
 
-O PMBOK divide esta etapa em duas:
+O [PMBOK] divide esta etapa em duas:
 
 - Uma qualitativa, esta é a etapa responsável por elencar os riscos para definir uma analise ou uma ação adicional. Esta analise é feita a partir da avaliação e combinação de sua probabilidade de ocorrência com o provável impacto causado.
 - Outra quantitativa feita para analisar numericamente o(s) efeito(s) dos riscos identificados de acordo com os objetivos do projeto.
@@ -76,7 +76,7 @@ O PMBOK divide esta etapa em duas:
 
 ### Controlar Riscos
 
-Segundo o PMBOK controlar os riscos é o processo do constante acompanhamento de implementação de planos de respostas aos riscos, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identificação de novos riscos e avaliação da eficácia do processo durante todo o projeto.
+Segundo o [PMBOK] controlar os riscos é o processo do constante acompanhamento de implementação de planos de respostas aos riscos, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identificação de novos riscos e avaliação da eficácia do processo durante todo o projeto.
 
 ## Documentação dos Riscos
 
@@ -98,15 +98,20 @@ Para o gerenciamento dos riscos utilizaremos a seguinte planilha:
 
 ![matrix-risk](https://i.imgur.com/XgRpEhO.png)
 
+Fonte: [CAPJu 2022-1 - Docs](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-riscos)
+
 ## Levantamento dos riscos
 
-<iframe width="100" height="350" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/150137770_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={094a6eb2-dd36-4540-b34e-825f17d0b04e}&action=embedview&wdAllowInteractivity=False&Item=Tabela1"></iframe>
+<iframe height=350 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQspDzMJaFdgVSTEW8wMSh4PDblVjyfVTRkVHpIr8BWEfrusPbxiEqDRaM6gRiGcJgTJhgfzFBO5OU/pubhtml?widget=true&amp&gid=0;headers=false"></iframe>
 
 ## Resposta ao riscos
 
-<iframe width="60" height="470" frameborder="100" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/150137770_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={094a6eb2-dd36-4540-b34e-825f17d0b04e}&action=embedview&wdAllowInteractivity=False&Item=Tabela2&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
-
+<iframe height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQspDzMJaFdgVSTEW8wMSh4PDblVjyfVTRkVHpIr8BWEfrusPbxiEqDRaM6gRiGcJgTJhgfzFBO5OU/pubhtml?widget=true&gid=1057019132&amp;headers=false&page=2"></iframe>
 <!-- ## Burndown de riscos -->
+
+## Referências
+
+> PMI. Um guia do conhecimento em gerenciamento de projetos. Guia [PMBOK] 5a. ed. - EUA: Project Management Institute, 2013.
 
 ## Histórico de Versão
 
@@ -114,6 +119,4 @@ Para o gerenciamento dos riscos utilizaremos a seguinte planilha:
 | ---------- | ------ | --------------------- | ------------- |
 | 02/12/2022 | 0.1    | Criação do documento  | Lude Ribeiro  |
 
-## Referências
-
-> PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
+[PMBOK]:https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211#
