@@ -34,22 +34,24 @@ Recomenda-se adotar a [sintaxe para fechamento automático](https://docs.github.
 
 As políticas atuais exigem que no mínimo dois membros da equipe validem as modificações a serem aplicadas ao código. Apenas com a aprovação desse quórum que será possível aceitar as modificações e mesclá-las (*merge*) ao código na ramificação principal.
 
-## Política de _Commits_
+## Política de *Commits*
 
-### Mensagem do _Commit_
+O sistema de controle de versões Git registra as modificações em objetos de *commit*, que guardam a diferença da versão anterior, metadados dos arquivos versionados que foram modificados, dados sobre o autor da modificação e uma texto detalhando a modificação, composta por título obrigatório e uma mensagem opcional.
 
-Para criar o commit é necessário seguir as seguintes regras:
+### Mensagem do *Commit*
 
-* A descrição dos _commits_ devem está em **português**
-* A descrição do commit deve ser sucinta e objetiva, representando claramente o que está sendo alterado naquele _commit_.
+Para criar o *commit* é necessário seguir as seguintes regras:
 
-* Caso não seja apenas um correção de bugs, a mensagem deve apresentar o número da issue como no exemplo abaixo:
+* o título e a mensagem opcional dos *commits* devem estar em **português**
+* o título do *commit* deve ser sucinto e objetivo, representando claramente o que está sendo alterado
+* caso o *commit* seja composto por título e mensagem, deve haver o espaço de uma linha entre ambos
 
-> `git commit -m 'issueId-Mensagem'`
+Além das regras acima, sugere-se também a aplicação das seguintes boas práticas na escrita do *commit*:
 
-* No caso de uma correção de bugs, a mensagem deve começar com hotfix.
-
-> `git commit -m 'hotfix-Mensagem'`
+* limitar, se possível, o título em até cinquenta caracteres
+* usar as descrições propostas pelos [*conventional commits*](https://www.conventionalcommits.org/en/v1.0.0/) para indicar o propósito do *commit*
+* escrever o título de forma que fique claro o que acontecerá se o *commit* for aplicado
+* escrever uma mensagem detalhando a modificação
 
 ## Rotulagem dos problemas (*Issues*)
 
