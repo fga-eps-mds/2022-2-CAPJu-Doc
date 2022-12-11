@@ -18,7 +18,6 @@
 | [Adicionar botão voltar em páginas necessitadas](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/13)| Interface | --|
 | [Refatoração das cores](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/20)| Interface | --|
 | [Alterar seta do modal de editar fluxo](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/14)| Interface | --|
-| [Documentação da EAP inicial do projeto](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/27)| Doc | --|
 | [Botão mais chamativo na edição de um fluxo](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/19)| Interface | --|
 | [Correção da modal de etapas](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/10)| Interface | --|
 | [Correção no titulo e ícone da aplicação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/4)| Interface | --|
