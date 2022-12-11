@@ -90,7 +90,7 @@ Objetivando facilitar a execução da disciplina de Gerência de Configuração 
 
 ### A ramificação principal (`main`)
 
-A *branch* principal, `main`, hospeda o código estável do projeto em todos os repositórios. Todos os *commits* na `main` implementam as funcionalidades de maneira que já possam ser executadas em ambiente de produção.
+A *branch* principal, `main`, hospeda o código estável do projeto em todos os repositórios. Todos os *commits* na `main` implementam as funcionalidades de maneira que já possam ser executadas em ambiente de produção. Além disso, eles são todos oriundos da *branch* de homologação e integração de funcionalidades, a `devel`.
 
 As novas versões (*releases*) são lançadas através da marcação com rótulos anotados [(*annotaded tags*)](https://git-scm.com/book/en/v2/Git-Basics-Tagging) do Git. Prefere-se o uso dos rótulos anotados, gerados pelo comando `git tag -a nome-tag`, aos rótulos comuns (*lightweight tags*), gerados pelo `git tag nome-tag`, pois são objetos separados no sistema de versão, e guardam dados de quem os gerou.
 
@@ -104,7 +104,7 @@ A *branch* `devel` será usada para integração de novas funcionalidades e homo
 
 ### Ramificações para novas funcionalidades (*feature branches*) de documentação
 
-No repositório de documentação, as funcionalidades são iniciadas nas ramificações que possuem o nome que segue o padrão: `docs/<issue-id>-<desrição>`.
+No repositório de documentação, as funcionalidades, modificações ou adições aos documentos do projeto, são iniciadas nas ramificações que possuem o nome que segue o padrão: `docs/<issue-id>-<desrição>`. Assim como nos outros repositórios, tais modificações são integradas na *branch* `devel` antes de serem disponibilizadas na `main` e, no caso específico da documentação, como página web na ramificação `gh-pages`.
 
 **Exemplo**: `docs/1-inicializa-repositorio`
 
