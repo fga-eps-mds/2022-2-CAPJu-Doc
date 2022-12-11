@@ -142,3 +142,4 @@ Abaixo segue a lista dos padrões de nomenclatura e os respectivos tipos de func
 | 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias                  | Lude Ribeiro    |
 | 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo         | Davi Antônio    |
 | 09/12/2022 | 0.2.2    | Explicar rótulos, inclusão de *issues* e escrita de PRs | Davi Antônio    |
+| 10/12/2022 | 0.3.0    | Reescrever política de *commits* e *branches*           | Davi Antônio    |
