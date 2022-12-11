@@ -22,9 +22,9 @@ A EAP é uma árvore que possui três níveis:
 
 ## Referências
 
-* [Estrutura Analítica do Projeto - Wikipédia](https://pt.wikipedia.org/wiki/Estrutura_anal%C3%ADtica_do_projeto)
-* [EAP (Estrutura Analítica do Projeto): o que é, como fazer e qual a diferença entre EAP e Cronograma](https://www.euax.com.br/2018/12/eap-estrutura-analitica-projeto/)
-* [Estrutura Analítica do Projeto - PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
+* EUAX. **EAP (Estrutura Analítica do Projeto): o que é, como fazer e qual a diferença entre EAP e Cronograma**. Disponível em: https://www.euax.com.br/2018/12/eap-estrutura-analitica-projeto/. Acesso em: 23 de novembro de 2022.
+* WIKIPEDIA. **Estrutura analítica do projeto**. Disponível em: https://pt.wikipedia.org/wiki/Estrutura_anal%C3%ADtica_do_projeto. Acesso em: 23 de novembro de 2022.
+* PMI. **PMBOK® Guide**. Disponível em: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok. Acesso em: 23 de novembro de 2022.
 
 ## Histórico de versão
 
