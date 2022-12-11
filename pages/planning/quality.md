@@ -73,20 +73,20 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
 
     Essa métrica tem por objetivo identificar a densidade de arquivos não complexos, sendo estes definidos como os arquivos que estão fora do limite de complexidade ciclomática definido (por padrão 10).
 
-    <p align="center">
+    <p align="left">
     <strong>Densidade de arquivos não complexos</strong>
     <br>
 
-    <a align="center">
+    <a align="left">
     <figure>
       <img src="https://i.imgur.com/FWmlxJG.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
     </a>
-
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
     Obs.: onde um arquivo complexo é definido como aquele cuja complexidade ciclomática por função é maior que 10 (valor padrão). A Complexidade Ciclomática contabiliza quantos caminhos possíveis um fluxo inicial de código pode assumir.
 
@@ -94,87 +94,91 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
 
     Essa métrica tem como objetivo identificar a densidade de arquivos comentados. Um arquivo é tido como comentado se a sua densidade de linhas comentadas estiver dentro do limite definido (entre 10% e 30% por padrão).
 
-    <p align="center">
+    <p align="left">
     <strong>Densidade de arquivos comentados</strong>
     <br>
 
     <figure>
       <img src="https://i.imgur.com/HcSasIK.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
 
+    <p>
+    <strong>Densidade de linhas comentadas</strong>
     <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
     <figure>
       <img src="https://i.imgur.com/XAxupgE.png">
-      <figcaption><strong>Densidade de linhas comentadas</strong></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
-
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
 3. **Duplicidade**
 
     Essa métrica avalia a quantidade de arquivos abaixo do limite definido para a porcentagem de linhas duplicadas. Onde, um arquivo é definido como não havendo duplicações se a sua densidade de duplicação é menor que 5% (valor padrão estabelecido).
 
-    <p align="center">
+    <p align="left">
     <strong>Ausência de duplicações</strong>
     <br>
 
     <figure>
       <img src="https://i.imgur.com/7wlLy4D.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
 
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
-
-    <p align="center">
+    <p align="left">
     <strong>Densidade de duplicação</strong>
     <br>
 
     <figure>
       <img src="https://i.imgur.com/em1EJmF.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
-
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
 ### Cálculo Manutenibilidade e Interpretação
 
 Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fator de qualidade _Code Quality_, sendo o único fator de qualidade que compõe o aspecto de qualidade Manutenibilidade e, portanto, seu resultado definirá tal aspecto. O cálculo é definido como:
 
-<p align="center">
+<p align="left">
 <strong>Manutenibilidade (Qualidade de Código)</strong>
 <br>
 
 <figure>
   <img src="https://i.imgur.com/rhLy38Y.png">
-  <figcaption></figcaption>
+  <figcaption>
+  <br>
+  Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+  </p>
+  </figcaption>
 <figure>
 
-<br>
-Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-</p>
-
-<p align="center">
+<p align="left">
 <strong>Constantes na Equação Qualidade de Código</strong>
 <br>
 
 <figure>
   <img src="https://i.imgur.com/K7ifyHE.png">
-  <figcaption></figcaption>
+  <figcaption>
+  <br>
+  Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+  </p>
+  </figcaption>
 <figure>
-
-<br>
-Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-</p>
 
 Onde, m1, m2 e m3 remetem a Complexidade, Comentários e Duplicidade, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
@@ -190,35 +194,35 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
 
     Calcula a densidade de testes unitários com sucesso. É definida como:
 
-    <p align="center">
+    <p align="left">
     <strong>Quantidade de testes com sucesso</strong>
     <br>
 
     <figure>
       <img src="https://i.imgur.com/s444taf.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
-
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
 2. **_Fast Test Builds_**
 
     Tem como objetivo o cálculo das _builds_ de teste cuja duração esteja abaixo do limite definido (300 segundos).
 
-    <p align="center">
+    <p align="left">
     <strong>Construções de teste rápidas</strong>
     <br>
 
     <figure>
       <img src="https://i.imgur.com/nSRTZ2y.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
-
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
     Obs.: _fast unit test_ são os testes cuja duração de execução está abaixo de 300 segundos.
 
@@ -226,18 +230,18 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
 
     Avalia a cobertura de código do Projeto considerando os arquivos de teste unitários que estejam acima do limite definido (60% por padrão).
 
-    <p align="center">
+    <p align="left">
     <strong>Cobertura de código</strong>
     <br>
 
     <figure>
       <img src="https://i.imgur.com/pi1v4yS.png">
-      <figcaption></figcaption>
+      <figcaption>
+      <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      </p>
+      </figcaption>
     <figure>
-
-    <br>
-    Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-    </p>
 
     Obs.: Onde _AcceptedUnitTestFiles_ são aqueles arquivos de teste unitário que testam ao menos 60% do código de seu componente alvo para o qual foi implementado.
 
@@ -245,31 +249,31 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
 
 Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, por ser o único fator de qualidade que compõe o aspecto Confiabilidade, definirá o seu valor final.
 
-<p align="center">
+<p align="left">
 <strong>Cálculo fator Testing Status</strong>
 <br>
 
 <figure>
   <img src="https://i.imgur.com/jLAYQMS.png">
-  <figcaption></figcaption>
+  <figcaption>
+    <br>
+      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+    </p>
+  </figcaption>
 <figure>
 
-<br>
-Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-</p>
-
-<p align="center">
+<p align="left">
 <strong>Constantes na equação Testing Status</strong>
 <br>
 
 <figure>
   <img src="https://i.imgur.com/maI6Byh.png">
-  <figcaption></figcaption>
+  <figcaption>
+  <br>
+  Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+  </p>
+  </figcaption>
 <figure>
-
-<br>
-Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-</p>
 
 Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
@@ -308,5 +312,3 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 05/12/2022 | 0.1.0 | Criação do plano de qualidade | Lude Ribeiro |
-
-[Capju 2022-1]:https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade

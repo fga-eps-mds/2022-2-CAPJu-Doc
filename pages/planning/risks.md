@@ -16,7 +16,7 @@ O [PMBOK] define esta fase como o processo de identificação para determinar e 
 
 #### Estrutura Análitica de Riscos
 
-![ear](https://i.imgur.com/4v5CioV.png)
+<iframe frameborder="0" style="width:100%;height:733px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=EAR#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1Y1PnrBQN3gJDANiaq6VvX4_T23qvzFsE%26export%3Ddownload"></iframe>
 
 #### Categoria dos Riscos
 
@@ -52,7 +52,7 @@ O [PMBOK] define esta fase como o processo de identificação para determinar e 
 O [PMBOK] divide esta etapa em duas:
 
 - Uma qualitativa, esta é a etapa responsável por elencar os riscos para definir uma analise ou uma ação adicional. Esta analise é feita a partir da avaliação e combinação de sua probabilidade de ocorrência com o provável impacto causado.
-- Outra quantitativa feita para analisar numericamente o(s) efeito(s) dos riscos identificados de acordo com os objetivos do projeto.
+- Outra quantitativa responsável por analisar numericamente o(s) efeito(s) dos riscos identificados de acordo com os objetivos do projeto.
 
 #### Probabilidade
 
@@ -80,7 +80,7 @@ Segundo o [PMBOK] controlar os riscos é o processo do constante acompanhamento 
 
 ## Documentação dos Riscos
 
-A documentação de riscos é feita para obter registros dos riscos, a primeira inserção de riscos nessa documentação é de extrema importancia. A partir desta documentação sáo trabalhadas as primeiras respostas aos riscos identificados.
+A documentação de riscos é feita para obter registros dos riscos, a primeira inserção de riscos nessa documentação é de extrema importância. A partir desta documentação sáo trabalhadas as primeiras respostas aos riscos identificados.
 
 Para registrar um risco foi decidido utilizar o seguinte formato:
 
@@ -117,6 +117,6 @@ Fonte: [CAPJu 2022-1 - Docs](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/pl
 
 | Data       | Versão | Descrição             | Autor(es)     |
 | ---------- | ------ | --------------------- | ------------- |
-| 02/12/2022 | 0.1    | Criação do documento  | Lude Ribeiro  |
+| 02/12/2022 | 0.1.0  | Criação do documento  | Lude Ribeiro  |
 
 [PMBOK]:https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211#
