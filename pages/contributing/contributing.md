@@ -96,7 +96,7 @@ As novas versões (*releases*) são lançadas através da marcação com rótulo
 
 ### Ramificação para página Web
 
-A *branch* `gh-pages` é usada para disponibilizar a documentação do projeto em formato Web. Essa documentação é hospedada em um repositório específico e é disponibilizada pelo serviço [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/).
+A *branch* `gh-pages` é usada para disponibilizar a documentação do projeto em formato de página Web. Essa documentação é hospedada em um repositório específico, sendo disponibilizada pelo serviço [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/).
 
 ### Ramificação para integração e homologação (`devel`)
 
@@ -110,17 +110,17 @@ No repositório de documentação, as funcionalidades são iniciadas nas ramific
 
 ### Ramificações para novas funcionalidades (*feature branches*) gerais
 
-Há outras situações previstas para o uso das ramificações de novas funcionalidades: aplicar correções urgentes, melhorias, refatorações ou implementar funcionalidades novas. É importante nomear as *branches* de acordo com o padrão indicado na política, pois depois de integradas na `devel`, estas serão apagadas, e serão documentadas somente com seus nomes nos *merge commits*.
+Há outras situações previstas para o uso das ramificações de novas funcionalidades: aplicar correções urgentes, melhorias, refatorações ou implementar funcionalidades novas. É importante nomear as *branches* conforme o padrão indicado na política, pois após serem integradas na `devel`, estas serão apagadas, e serão documentadas somente com seus nomes nos *merge commits*.
 
 Abaixo segue a lista dos padrões de nomenclatura e os respectivos tipos de funcionalidade:
 
-* **`hotfix/<issue-id>-<nome_bug>`**: usado para funcionalidades de correção de defeitos. É preciso especificar o número da _issue_ cadastrada no repositório de documentação.
-**Exemplo**: `hotfix/1-tela-inexistente` (_issue_ #1)
+* **`hotfix/<issue-id>-<nome_bug>`**: usado para funcionalidades de correção de defeitos. É preciso especificar o número da *issue* cadastrada no repositório de documentação.
+**Exemplo**: `hotfix/1-tela-inexistente`
 
-* **`enhacement/<issue-id>-<nome_bug>`**: usado para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
+* **`enhacement/<issue-id>-<nome_bug>`**: usado para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da *issue* cadastrada no repositório.
 **Exemplo**: `enhacement/1-adiciona-icones`
 
-* **`feature/<issue-id>-<feature-name>`**: usado para funcionalidades novas. O nome deve conter o número da issue registrada, no formato.
+* **`feature/<issue-id>-<feature-name>`**: usado para funcionalidades novas. O nome deve conter o número da *issue* registrada, no formato.
 **Exemplo**: `feature/1-estrutura-generica-de-listas-ligadas`
 
 * **`refactor/<nome_refatoracao>`**: usado para ajustes no código que não corrigem defeitos e nem adicionam novas funcionalidades.
