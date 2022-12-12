@@ -15,7 +15,7 @@ O plano de comunicação é uma estratégia que pretende determinar os processos
     <li>
         <h5><img src="https://d1fdloi71mui9q.cloudfront.net/KG6Bw8GRJOgOyoDgxblL_wKaXXL2c0b1Zi2DP" height="20px" width="20px"> Microsoft Teams: Para as reuniões com o cliente e planejamento do time.
     <li>
-        <h5><img src="https://pngimg.com/uploads/github/github_PNG40.png" height="20px" width="20px"> GitHub: Usado como repositório central da documentação e código fonte do projeto.
+        <h5><img src="https://pngimg.com/uploads/github/github_PNG40.png" height="20px" width="20px"> GitHub: Usado como repositório central da documentação e código fonte do projeto e canal de comunicação através dos comentários da issues e pull requests.
     <li>
         <h5><img src="https://app.zenhub.com/dist/favicon/apple-touch-icon.png" height="15px" width="15px"> ZenHub: Ferramenta utilizada como quatro Kanban de tarefas para o time.
 </ul>
