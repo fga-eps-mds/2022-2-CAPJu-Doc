@@ -54,7 +54,7 @@ Juntamente com o exercício de personas, esta atividade procura traçar, de form
 |                             Juninho                             |                            Wagner                             |
 | ![jornada_juninho](https://imgur.com/jrCUw1w.png) | ![jornada_wagner](https://imgur.com/YII5LzZ.png) |
 |                             João                             | 
-![jornada_joao](https://imgur.com/YII5LzZ.png)
+![jornada_joao](https://imgur.com/i0CNtMM.png)
 
 ## 8. Brainstorming de Funcionalidades
 
@@ -78,3 +78,16 @@ O Sequenciador serve para deixar as funcionalidades de forma sequencial ao desen
 Esta é a etapa final da Lean Inception. Trata-se de um quadro que resume as discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento e traz como critérios a proposta do MVP, personas segmentadas, jornadas, funcionalidades, resultado esperado, métricas para validar as hipóteses do negócio e custo e cronograma.
 
 ![canvasmvp](https://imgur.com/5czuMiN.png)
+
+# Referências
+
+Capju. Capju. Documento de arquiterura. Disponível em: https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/projeto/documento-arquitetura. Acesso em: 10 de dez. de 2022.
+
+Paulo, Caroli. Lean Inception, 2003. Disponível em: <https://caroli.org/livro/lean-inception-como-alinhar-pessoas-e-construir-o-produto-certo/>. Acesso em: 10 de dez. de 2022.
+
+
+# Histórico de versões
+
+| Data       | Versão | Descrição                                                                   | Autor                                        |
+| ---------- | ------ | --------------------------------------------------------------------------- | -------------------------------------------- |
+| 11/12/2022 | 0.1.0    | Adicionando o tópico de Introdução e Objetivo                               | João Vitor Alves e Lude Ribeiro                      |
