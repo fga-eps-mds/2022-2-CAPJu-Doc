@@ -16,7 +16,7 @@ A programação em pares oferece diversos benefícios, como:
 
 ## Quadros de Pareamento
 
-### Sprint 1
+### Semana 2
 
 <div class="SprintPairingTables">
     <div>
@@ -34,10 +34,104 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
                             </figure>
                         </a>
-                        :handshake:
+                        <a class="PairingPhoto" href="https://github.com/SamuelGSouza" target="_blank" title="Samuel Gomes">
+                            <figure>
+                                <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
+                            <figure>
+                                <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
+                            <figure>
+                                <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
+                            <figure>
+                                <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
+                            </figure>
+                        </a>
                         <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
                             <figure>
                                 <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/27">
+                            Testes funcionais
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <h4>EPS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
+                            <figure>
+                                <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
+                            <figure>
+                                <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
+                            <figure>
+                                <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
+                            <figure>
+                                <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/26">
+                            Lean Inception - Revisão técnica, de negócio e UX
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+### Semana 3
+
+<div class="SprintPairingTables">
+    <div>
+        <h4>MDS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
+                            <figure>
+                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
                             </figure>
                         </a>
                     </td>
@@ -54,7 +148,18 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
                             </figure>
                         </a>
-                        :handshake:
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/12">
+                            Correção da listagem de administradores da Unidade
+                        </a></br>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/11">
+                            Correção de titulo da Unidade
+                        </a></br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
                         <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
                             <figure>
                                 <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
@@ -77,7 +182,164 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
                             </figure>
                         </a>
-                        :handshake:
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
+                            Correção da modal de novas anotações
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
+                            <figure>
+                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
+                            Correção da modal de novas anotações
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
+                            <figure>
+                                <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
+                            Correção da modal de novas anotações
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <h4>EPS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
+                            <figure>
+                                <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/28">
+                            Atualizar documentação do guia de contribuição
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
+                            <figure>
+                                <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
+                            <figure>
+                                <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
+                            <figure>
+                                <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
+                            <figure>
+                                <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/27">
+                            Documentação da EAP inicial do projeto
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+### Sprint 1
+
+<div class="SprintPairingTables">
+    <div>
+        <h4>MDS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
+                            <figure>
+                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
+                            <figure>
+                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/42">
+                            Prototipação das telas de gerenciamento de anotação
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/SamuelGSouza" target="_blank" title="Samuel Gomes">
+                            <figure>
+                                <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
+                            <figure>
+                                <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/12">
+                            Correção da listagem de administradores da Unidade
+                        </a></br>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/11">
+                            Correção de titulo da Unidade
+                        </a></br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
+                            <figure>
+                                <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
+                            </figure>
+                        </a>
                         <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
                             <figure>
                                 <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
@@ -178,11 +440,44 @@ A programação em pares oferece diversos benefícios, como:
                         </a>
                     </td>
                 </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
+                            <figure>
+                                <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
+                            <figure>
+                                <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
+                            <figure>
+                                <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
+                            <figure>
+                                <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/28">
+                            Modelagem inicial dos dados
+                        </a>
+                    </td>
+                </tr>
             </tbody>
         </table>
     </div>
 </div>
-
 
 ### Sprint 2
 <div class="SprintPairingTables">
@@ -201,7 +496,6 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
                             </figure>
                         </a>
-                        :handshake:
                         <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
                             <figure>
                                 <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
@@ -221,7 +515,6 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
                             </figure>
                         </a>
-                        :handshake:
                         <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
                             <figure>
                                 <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
@@ -241,7 +534,6 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
                             </figure>
                         </a>
-                        :handshake:
                         <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
                             <figure>
                                 <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
@@ -279,6 +571,12 @@ A programação em pares oferece diversos benefícios, como:
                         </a></br>
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/63">
                             Documentação dos protótipos desenvolvidos
+                        </a></br>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/52">
+                            Remoção de componentes ligados a estatísticas
+                        </a></br>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/51">
+                            Cobertura de testes para pagina Perfil de Acesso
                         </a>
                     </td>
                 </tr>
@@ -289,7 +587,6 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
                             </figure>
                         </a>
-                        :handshake:
                         <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
                             <figure>
                                 <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
@@ -312,7 +609,6 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
                             </figure>
                         </a>
-                        :handshake:
                         <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
                             <figure>
                                 <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
@@ -320,11 +616,14 @@ A programação em pares oferece diversos benefícios, como:
                         </a>
                     </td>
                     <td>
-                        <a href="https://github.com/fga-eps-mds/2022-2-capju-service/issues/5">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/101">
                             Atualizar documento de comunicação
                         </a></br>
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/8">
                             Atualização do documento de arquitetura
+                        </a></br>
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/71">
+                            Lean Inception
                         </a>
                     </td>
                 </tr>
