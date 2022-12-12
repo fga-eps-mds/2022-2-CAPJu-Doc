@@ -16,6 +16,142 @@ A programação em pares oferece diversos benefícios, como:
 
 ## Quadros de Pareamento
 
+### Semana 1
+<div class="SprintPairingTables">
+    <div>
+        <h4>MDS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
+                            <figure>
+                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
+                            <figure>
+                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/13">
+                            Documentação da Pagina de Apresentação
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/SamuelGSouza" target="_blank" title="Samuel Gomes">
+                            <figure>
+                                <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
+                            <figure>
+                                <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/5">
+                            Registro de Disponibilidade
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
+                            <figure>
+                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
+                            <figure>
+                                <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/3">
+                            Estrutura de Comunicação
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
+                            <figure>
+                                <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
+                            <figure>
+                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/4">
+                            Registro de Treinamentos
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <h4>EPS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
+                            <figure>
+                                <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/10">
+                            Documentação do quadro de conhecimentos
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/luderibeiro" target="_blank" title="Lude Yuri">
+                            <figure>
+                                <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
+                            </figure>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/1">
+                            Configurar doscify
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
 ### Semana 2
 
 <div class="SprintPairingTables">
@@ -70,7 +206,7 @@ A programação em pares oferece diversos benefícios, como:
         </table>
     </div>
     <div>
-        <h4>EPS</h4>
+        <h4>Geral</h4>
         <table>
             <thead>
                 <td><center><b>Participantes</b></center></td>
@@ -102,6 +238,36 @@ A programação em pares oferece diversos benefícios, como:
                         <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
                             <figure>
                                 <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
+                            <figure>
+                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/SamuelGSouza" target="_blank" title="Samuel Gomes">
+                            <figure>
+                                <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
+                            <figure>
+                                <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
+                            <figure>
+                                <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
+                            <figure>
+                                <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
+                            <figure>
+                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
                             </figure>
                         </a>
                     </td>
