@@ -60,12 +60,14 @@ Juntamente com o exercício de personas, esta atividade procura traçar, de form
 
 Nesta fase chega-se às funcionalidades. O objetivo é determinar as ações e interações funcionais que o usuário terá com o produto de acordo com suas necessidades e objetivos de negócio que agregarão valor. A atividade foi realizada em conjunto, descrevendo-se de forma simples e concisa as possíveis aplicações e, ao final, chegando-se a um consenso.
 
-![brainstorming](https://imgur.com/Y2iaTck.png)
+![brainstorming](https://imgur.com/sDuZH90.png)
+
 ## 9. Revisão Técnica, de Negócio e de UX
 
 Nesta revisão, foi esboçado o conhecimento técnico do time para cada funcionalidade de acordo com o que fazer e como fazer, sendo vermelho para baixo, amarelo para médio e verde para alto entendimento. Além disso, foi descrito, em uma escala de 1 a 3, como o time julgava cada aplicação em níveis de esforço (E), negócio ($) e UX (<3). Essa fase ajuda na compreensão da complexidade e importância das funcionalidades, consequentemente, da priorização, estimação e planejamento.
 
 ![revisao](https://imgur.com/H7ZaXHS.png)
+
 ## 10. Sequenciador
 
 O Sequenciador serve para deixar as funcionalidades de forma sequencial ao desenvolvimento, informando quais aplicações serão implementadas no MVP (Mínimo Produto Viável) e o que será incremento. A etapa auxilia na visualização e organização da validação das ideias. É importante ressaltar que a atividade é discorrida a partir de regras estabelecidas pela Lean Inception.
@@ -77,7 +79,7 @@ O Sequenciador serve para deixar as funcionalidades de forma sequencial ao desen
 
 Esta é a etapa final da Lean Inception. Trata-se de um quadro que resume as discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento e traz como critérios a proposta do MVP, personas segmentadas, jornadas, funcionalidades, resultado esperado, métricas para validar as hipóteses do negócio e custo e cronograma.
 
-![canvasmvp](https://imgur.com/5czuMiN.png)
+![canvasmvp](https://imgur.com/OjHBsqV.png)
 
 # Referências
 
