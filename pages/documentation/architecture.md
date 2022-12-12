@@ -31,7 +31,6 @@ Este documento detalha os padrões arquiteturais do CAPJu, como também aborda a
 | **3** | **Metas e Restrições da Arquitetura** | Descreve os objetivos do projeto, como também suas restrições, do ponto de vista arquitetural                                |
 | **4** | **Visão Lógica**                      | Fornece ao leitor uma base para compreender a estrutura e a organização do design do sistema                                 |
 | **5** | **Visão de Implementação**            | Fornece ao leitor uma base que permitirá compreender a distribuição física do sistema em um conjunto de nós de processamento |
-| **6** | **Referências**                       | Fornece ao leitor um conhecimento das referências utilizadas durante a criação deste documento
 
 # 2. Representação da Arquitetura
 
@@ -113,7 +112,7 @@ A camada **Controller** será responsável por intermediar as requisições envi
 ![Diagrama de Dados](https://imgur.com/YcmyuyE.png)
 
 
-# 6 Referências
+# Referências
 
 Capju. Capju. Documento de arquiterura. Disponível em: https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/projeto/documento-arquitetura. Acesso em: 10 de dez. de 2022.
 

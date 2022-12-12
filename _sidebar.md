@@ -3,7 +3,6 @@
   - [Home](pages/home)
   - [Comunicação](pages/comunication)
   - [Treinamento](pages/trainning)
-  - [Sobre](pages/about)
 
 - **Planejamento**
 
@@ -38,3 +37,4 @@
 - **Projeto**
 
   - [Documento de Arquitetura](pages/documentation/architecture)
+  - [lean Inception](pages/documentation/leaninception)
