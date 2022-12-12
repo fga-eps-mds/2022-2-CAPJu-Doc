@@ -3,7 +3,27 @@
   - [Home](pages/home)
   - [Comunicação](pages/comunication)
   - [Treinamento](pages/trainning)
+  - [Sobre](pages/about)
+  
+- **Planejamento**
+
+  - [Riscos](pages/planning/risks)
+  - [Qualidade](pages/planning/quality)
+  - [Custos](pages/planning/costs)
   - [EAP](pages/eap)
+  - [Protótipos](pages/prototypes)
+
+- **Gestão**
+
+  - [Planejamento](pages/planning)
+  - Semanas
+    - [Semana 01](pages/semanas/semana01.md)
+    - [Semana 02](pages/semanas/semana02.md)
+    - [Semana 03](pages/semanas/semana03.md)
+  - Sprints
+    - [Sprint 01](pages/sprints/sprint01.md)
+    <!-- - [Sprint 02](pages/sprints/sprint02.md) -->
+
 
 - **Controle de equipe**
 
@@ -13,4 +33,8 @@
 
 - **Guias**
 
-  - [Guia de Contribuição](pages/contributing/contributing.md)
+  - [Guia de Contribuição](pages/contributing/contributing)
+
+- **Projeto**
+
+  - [Documento de Arquitetura](pages/documentation/architecture)

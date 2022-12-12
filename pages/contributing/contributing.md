@@ -34,22 +34,24 @@ Recomenda-se adotar a [sintaxe para fechamento automático](https://docs.github.
 
 As políticas atuais exigem que no mínimo dois membros da equipe validem as modificações a serem aplicadas ao código. Apenas com a aprovação desse quórum que será possível aceitar as modificações e mesclá-las (*merge*) ao código na ramificação principal.
 
-## Política de _Commits_
+## Política de *Commits*
 
-### Mensagem do _Commit_
+O sistema de controle de versões Git registra as modificações em objetos de *commit*, que guardam a diferença da versão anterior, metadados dos arquivos versionados que foram modificados, dados sobre o autor da modificação e uma texto detalhando a modificação, composta por título obrigatório e uma mensagem opcional.
 
-Para criar o commit é necessário seguir as seguintes regras:
+### Mensagem do *Commit*
 
-* A descrição dos _commits_ devem está em **português**
-* A descrição do commit deve ser sucinta e objetiva, representando claramente o que está sendo alterado naquele _commit_.
+Para criar o *commit* é necessário seguir as seguintes regras:
 
-* Caso não seja apenas um correção de bugs, a mensagem deve apresentar o número da issue como no exemplo abaixo:
+* o título e a mensagem opcional dos *commits* devem estar em **português**
+* o título do *commit* deve ser sucinto e objetivo, representando claramente o que está sendo alterado
+* caso o *commit* seja composto por título e mensagem, deve haver o espaço de uma linha entre ambos
 
-> `git commit -m 'issueId-Mensagem'`
+Além das regras acima, sugere-se também a aplicação das seguintes boas práticas na escrita do *commit*:
 
-* No caso de uma correção de bugs, a mensagem deve começar com hotfix.
-
-> `git commit -m 'hotfix-Mensagem'`
+* limitar, se possível, o título em até cinquenta caracteres
+* usar as descrições propostas pelos [*conventional commits*](https://www.conventionalcommits.org/en/v1.0.0/) para indicar o propósito do *commit*
+* escrever o título de forma que fique claro o que acontecerá se o *commit* for aplicado
+* escrever uma mensagem detalhando a modificação
 
 ## Rotulagem dos problemas (*Issues*)
 
@@ -84,31 +86,41 @@ As etiquetas a seguir também são cadastradas em todos os repositórios, mas s�
 - **`EPS`** `#006633`: indica que o problema será trabalhado por alunos da disciplina de Engenharia de Produto de Software (EPS)
 - **`MDS`** (cor `#0068b4`): indica que o problema será trabalhado por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS)
 
-## Política de _Branches_
+## Política de Ramificações (*branches*)
 
-Objetivando manter a confiabilidade do código fonte do nosso produto, propõe-se o uso de uma política de branches para orientar os desenvolvedores no modo de organização das suas contribuições neste repositório. Assim, estabelecemos:
+Objetivando facilitar a execução da disciplina de Gerência de Configuração de Software, optou-se pelo estabelecimento de uma Política para regulamentar o uso do recurso de ramificações (*branches*) do sistema de controle de versões Git. A Política escolhida é baseada na [Gitlab FLow](https://docs.gitlab.com/ee/topics/gitlab_flow.html), que conta com ramificações para implementação de novas funcionalidades [(*feature branches*)](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), uma *branch* para estabilização do código e integração das funcionalidades, e outra para versionar código de produção, que passou por testes e validação do cliente. Como haverá somente uma versão estável em uso pelo cliente, optou-se por não usar múltiplas *branches* de produção.
 
-branch padrão **main**, para hospedar o código estável do projeto (que estará em ambiente de homologação);
+### A ramificação principal (`main`)
 
-* **gh-pages**: Designada para conter todos os documentos do projeto, disponíveis no [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/)
+A *branch* principal, `main`, hospeda o código estável do projeto em todos os repositórios. Todos os *commits* na `main` implementam as funcionalidades de maneira que já possam ser executadas em ambiente de produção. Além disso, eles são todos oriundos da *branch* de homologação e integração de funcionalidades, a `devel`.
 
-* **`docs/<issue-id>-<nome_documento>`** - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `docs/1-<nome_documento>` (_issue_ #1)
+As novas versões (*releases*) são lançadas através da marcação com rótulos anotados [(*annotaded tags*)](https://git-scm.com/book/en/v2/Git-Basics-Tagging) do Git. Prefere-se o uso dos rótulos anotados, gerados pelo comando `git tag -a nome-tag`, aos rótulos comuns (*lightweight tags*), gerados pelo `git tag nome-tag`, pois são objetos separados no sistema de versão, e guardam dados de quem os gerou.
 
-* **`main`** - Branch destinada à integração das novas funcionalidades desenvolvidas, onde estarão as features em estágio avançado e/ou completas. Esta será a branch base para o desenvolvimento inicial de features e de correção de bugs.
+### Ramificação para página Web
 
-* **`hotfix/<issue-id>-<nome_bug>`** - Branch dedicada para correção de bugs presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `hotfix/1-<nome_bug>` (_issue_ #1)
+A *branch* `gh-pages` é usada para disponibilizar a documentação do projeto em formato de página Web. Essa documentação é hospedada em um repositório específico, sendo disponibilizada pelo serviço [Github Pages](https://fga-eps-mds.github.io/2022-2-CAPJu-Doc/#/).
+### Ramificação para integração e homologação (`devel`)
 
-* **`enhacement/<issue-id>-<nome_bug>`** - Branch dedicada para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
-Exemplo: `enhacement/1-<nome_bug>` (_issue_ #1)
+A *branch* `devel` será usada para integração de novas funcionalidades e homologação. Ela é inicializada a partir da `main`, e continua paralela a essa integrando as novas funcionalidades. Quando o código é homologado, ocorre uma operação de mesclagem (*merge*) da `devel` na `main`.
 
-* **`feature/<issue-id>-<feature-name>`** - Branch usada para desenvolvimento de uma nova feature no projeto. O nome deve conter o número da issue registrada, no formato.
-Exemplo: `feature/1-<feature-name>` (_issue_ #1)
+### Ramificações para novas funcionalidades (*feature branches*) de documentação
 
-* **`release/<release-version>`** - Branch destinada à ajustes finais/build que serão feitas para entrega de uma realize do software. O nome deve ser a própria versão da release.
+No repositório de documentação, as funcionalidades, modificações ou adições aos documentos do projeto, são iniciadas nas ramificações que possuem o nome que segue o padrão: `docs/<issue-id>-<desrição>`. Assim como nos outros repositórios, tais modificações são integradas na *branch* `devel` antes de serem disponibilizadas na `main` e, no caso específico da documentação, como página web na ramificação `gh-pages`. **Exemplo**: `docs/1-inicializa-repositorio`
 
-* **`refactor/<nome_refatoracao>`** - Branch destinada à ajustes no código que não corrigem um bug e nem adiciona um novo recurso
+### Ramificações para novas funcionalidades (*feature branches*) gerais
+
+Há outras situações previstas para o uso das ramificações de novas funcionalidades: aplicar correções urgentes, melhorias, refatorações ou implementar funcionalidades novas. É importante nomear as *branches* conforme o padrão indicado na política, pois após serem integradas na `devel`, estas serão apagadas, e serão documentadas somente com seus nomes nos *merge commits*.
+
+Abaixo segue a lista dos padrões de nomenclatura e os respectivos tipos de funcionalidade:
+
+* **`hotfix/<issue-id>-<nome_bug>`**: usado para funcionalidades de correção de defeitos. É preciso especificar o número da *issue* cadastrada no repositório de documentação. **Exemplo**: `hotfix/1-tela-inexistente`
+
+* **`enhacement/<issue-id>-<nome_bug>`**: usado para melhoria de funcionalidades já presentes na aplicação. É preciso especificar o número da *issue* cadastrada no repositório. **Exemplo**: `enhacement/1-adiciona-icones`
+
+* **`feature/<issue-id>-<feature-name>`**: usado para funcionalidades novas. O nome deve conter o número da *issue* registrada, no formato. **Exemplo**: `feature/1-estrutura-generica-de-listas-ligadas`
+
+* **`refactor/<nome_refatoracao>`**: usado para ajustes no código que não corrigem defeitos e nem adicionam novas funcionalidades. **Exemplo**: `refactor/daos`
+
 
 ## Referência
 
@@ -123,3 +135,4 @@ Exemplo: `feature/1-<feature-name>` (_issue_ #1)
 | 23/11/2022 | 0.2.0    | Nova política de padrão para melhorias                  | Lude Ribeiro    |
 | 08/12/2022 | 0.2.1    | Corrigir item de lista formatado como parágrafo         | Davi Antônio    |
 | 09/12/2022 | 0.2.2    | Explicar rótulos, inclusão de *issues* e escrita de PRs | Davi Antônio    |
+| 10/12/2022 | 0.3.0    | Reescrever política de *commits* e *branches*           | Davi Antônio    |
