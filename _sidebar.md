@@ -11,6 +11,7 @@
   - [Qualidade](pages/planning/quality)
   - [Custos](pages/planning/costs)
   - [EAP](pages/eap)
+  - [Protótipos](pages/prototypes)
 
 - **Controle de equipe**
 
