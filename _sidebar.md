@@ -3,6 +3,13 @@
   - [Home](pages/home)
   - [Comunicação](pages/comunication)
   - [Treinamento](pages/trainning)
+  - [Sobre](pages/about)
+  
+- **Planejamento**
+
+  - [Riscos](pages/planning/risks)
+  - [Qualidade](pages/planning/quality)
+  - [Custos](pages/planning/costs)
   - [EAP](pages/eap)
   - [Protótipos](pages/prototypes)
 
