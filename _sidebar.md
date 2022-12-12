@@ -18,3 +18,4 @@
 - **Projeto**
 
   - [Documento de Arquitetura](pages/documentation/architecture)
+  - [lean Inception](pages/documentation/leaninception)
