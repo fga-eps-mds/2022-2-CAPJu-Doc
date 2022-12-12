@@ -12,4 +12,8 @@
 
 - **Guias**
 
-  - [Guia de Contribuição](pages/contributing/contributing.md)
+  - [Guia de Contribuição](pages/contributing/contributing)
+
+- **Projeto**
+
+  - [Documento de Arquitetura](pages/documentation/architecture)
