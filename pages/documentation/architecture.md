@@ -139,4 +139,4 @@ Express.js. Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Express.js
 
 | Data       | Versão | Descrição                                                                   | Autor                                        |
 | ---------- | ------ | --------------------------------------------------------------------------- | -------------------------------------------- |
-| 26/07/2022 | 0.1.0    | Adicionando o tópico de Introdução e Objetivo                               | João Vitor Alves e Lude Ribeiro                      |
+| 11/12/2022 | 0.1.0    | Adicionando o tópico de Introdução e Objetivo                               | João Vitor Alves e Lude Ribeiro                      |
