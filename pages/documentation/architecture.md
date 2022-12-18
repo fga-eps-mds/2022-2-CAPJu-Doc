@@ -88,16 +88,15 @@ O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de códi
 
 <iframe src="https://drive.google.com/file/d/1ZpKmk2o6XDKuMmHA0F0dEAvVpxeu7RWr/preview" width="640" height="480" allow="autoplay"></iframe>
 
-O servidor é dividido em dois microsserviços, um para a gerência de perfis e usuários e outro para a gerência de fluxos e processos. Cada um conectando-se ao mesmo banco de dados e executando em nodeJs com expressJs.
+O servidor é dividido em dois microsserviços, um para a gerência de perfis e usuários, denominado **User**, e outro, **Service**, para a gerência de fluxos e processos. Todos se conectam à mesma base de dados e são baseados em nodeJs com expressJs.
 
-O projeto CAPJu utiliza uma arquitetura **MVC** que é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle), este modelo facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas.
+O projeto CAPJu utiliza uma arquitetura **MVC** em cada um dos microsserviços que compõem o sistema. A arquitetura MVC, cujo nome vem que é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (controlador), facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas.
 
-A camada **Model** possui a responsabilidade da lógica/regra de negócio, de cada módulo, após fazer o tratamento dos dados, é feito mais um mapeamento para o banco de dados, que fará o processamento requisitado e irá retorná-lo. Para essa camada será utilizado o **MongoDB**.
+A camada **Model** é responsável pela lógica e as regras de negócio. Após tratar os dados, é feito um mapeamento do objeto para o banco de dados relacional. Também é necessário transformar os dados que vêm de uma consulta ao banco de dados em objetos. Essas conversões serão realizadas pelo **Sequelize**.
 
-A partir da camada **View**, o cliente através de uma aplicação web, terá acesso a uma interface e poderá realizar requisições ao sistema quando for necessário interagir com o banco de dados. O **React** será responsável pela camada View.
+A partir da camada **View**, o cliente, através de uma aplicação web, terá acesso a uma interface e poderá realizar requisições ao sistema quando for necessário interagir com o banco de dados. O **React** será responsável por essa camada.
 
-A camada **Controller** será responsável por intermediar as requisições enviadas pela camada View com as respostas fornecidas pela camada Model, processando os dados que o usuário informou e repassando para outras camadas. Nessa camada será utilizado o **NodeJs**.
-
+A camada **Controller** é responsável por intermediar as requisições enviadas pela camada *View* com as respostas fornecidas pela camada *Model*, processando os dados que o usuário informou e repassando para outras camadas. Nessa camada será utilizado o **NodeJs**.
 
 # 5. Visão de implementação
 
