@@ -101,7 +101,7 @@ A camada **Controller** será responsável por intermediar as requisições envi
 
 # 5. Visão de implementação
 
-## 5.1 Diagrama de caso de Uso
+## 5.1 Diagrama de Classes
 
 <iframe frameborder="0" style="width:100%;height:800px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=DriagramaDeClasses.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1TEkje5u-Q5dxVYX31eIENd9E2apN8q8E%26export%3Ddownload"></iframe>
 
