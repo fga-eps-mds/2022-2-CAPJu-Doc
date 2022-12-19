@@ -66,14 +66,15 @@ O Sequelize segue o controle de versão semântico e oferece suporte ao Node v10
 ### Postgres
 
 O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de código aberto que usa e estende a linguagem SQL combinada com muitos recursos que armazenam e dimensionam com segurança as cargas de trabalho de dados mais complicadas.
- O PostgreSQL é executado em todos os principais sistemas operacionais, além de ser o banco de dados relacional de software livre preferido por muitas pessoas e organizações.
 
- # 3 Metas e Restrições da Arquitetura
+O PostgreSQL é executado em todos os principais sistemas operacionais, além de ser o banco de dados relacional de software livre preferido por muitas pessoas e organizações.
+
+# 3 Metas e Restrições da Arquitetura
 
 ## 3.1 Metas
 
 - Reusabilidade de código
-- Baixo acoplamento, facilitando a manutenabilidade
+- Baixo acoplamento, facilitando a manutenção do software
 - Tornar o desenvolvimento do aplicativo mais rápido
 
 ## 3.2 Restrições
@@ -88,33 +89,33 @@ O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de códi
 
 <iframe src="https://drive.google.com/file/d/1ZpKmk2o6XDKuMmHA0F0dEAvVpxeu7RWr/preview" width="640" height="480" allow="autoplay"></iframe>
 
-O servidor é dividido em dois microsserviços, um para a gerência de perfis e usuários e outro para a gerência de fluxos e processos. Cada um conectando-se ao mesmo banco de dados e executando em nodeJs com expressJs.
+O servidor é dividido em dois microsserviços, um para a gerência de perfis e usuários, denominado **User**, e outro, **Service**, para a gerência de fluxos e processos. Todos se conectam à mesma base de dados e são baseados em nodeJs com expressJs.
 
-O projeto CAPJu utiliza uma arquitetura **MVC** que é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle), este modelo facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas.
+O projeto CAPJu utiliza uma arquitetura **MVC** em cada um dos microsserviços que compõem o sistema. A arquitetura MVC, cujo nome vem que é uma sigla do termo em inglês *Model* (modelo) *View* (visão) e *Controller* (controlador), facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas.
 
-A camada **Model** possui a responsabilidade da lógica/regra de negócio, de cada módulo, após fazer o tratamento dos dados, é feito mais um mapeamento para o banco de dados, que fará o processamento requisitado e irá retorná-lo. Para essa camada será utilizado o **MongoDB**.
+A camada **Model** é responsável pela lógica e as regras de negócio. Após tratar os dados, é feito um mapeamento do objeto para o banco de dados relacional. Também é necessário transformar os dados que vêm de uma consulta ao banco de dados em objetos. Essas conversões serão realizadas pelo **Sequelize**.
 
-A partir da camada **View**, o cliente através de uma aplicação web, terá acesso a uma interface e poderá realizar requisições ao sistema quando for necessário interagir com o banco de dados. O **React** será responsável pela camada View.
+A partir da camada **View**, o cliente, através de uma aplicação web, terá acesso a uma interface e poderá realizar requisições ao sistema quando for necessário interagir com o banco de dados. O **React** será responsável por essa camada.
 
-A camada **Controller** será responsável por intermediar as requisições enviadas pela camada View com as respostas fornecidas pela camada Model, processando os dados que o usuário informou e repassando para outras camadas. Nessa camada será utilizado o **NodeJs**.
-
+A camada **Controller** é responsável por intermediar as requisições enviadas pela camada *View* com as respostas fornecidas pela camada *Model*, processando os dados que o usuário informou e repassando para outras camadas. Nessa camada será utilizado o **NodeJs**.
 
 # 5. Visão de implementação
 
-## 5.1 Diagrama de caso de Uso
+## 5.1 Diagrama de Classes
 
 <iframe frameborder="0" style="width:100%;height:800px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=DriagramaDeClasses.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1TEkje5u-Q5dxVYX31eIENd9E2apN8q8E%26export%3Ddownload"></iframe>
 
 ## 5.2 Diagrama de Entidade e Relacionamento
-![Diagrama de Entidade e relacionamento](https://imgur.com/UDITdkB.png)
+![Diagrama de Entidade e relacionamento](../../assets/images/DER.png)
+
 
 ## 5.3 Diagrama de Dados
-![Diagrama de Dados](https://imgur.com/YcmyuyE.png)
+![Diagrama de Dados](../../assets/images/DLD.png)
 
 
 # Referências
 
-Capju. Capju. Documento de arquiterura. Disponível em: https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/projeto/documento-arquitetura. Acesso em: 10 de dez. de 2022.
+Capju. Capju. Documento de arquitetura. Disponível em: https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/projeto/documento-arquitetura. Acesso em: 10 de dez. de 2022.
 
 
 Sequelize. Sequelize. Página inicial. Disponível em: <https://sequelize.org/docs/v6/>.Acesso em: 10 de dez. de 2022.
