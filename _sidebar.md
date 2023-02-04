@@ -37,4 +37,5 @@
 - **Projeto**
 
   - [Documento de Arquitetura](pages/documentation/architecture)
-  - [lean Inception](pages/documentation/leaninception)
+  - [Lean Inception](pages/documentation/leaninception)
+  - [Identidade Visual](pages/documentation/visualidentity.md)
