@@ -21,7 +21,7 @@
     - [Semana 03](pages/semanas/semana03.md)
   - Sprints
     - [Sprint 01](pages/sprints/sprint01.md)
-    <!-- - [Sprint 02](pages/sprints/sprint02.md) -->
+    - [Sprint 02](pages/sprints/sprint02.md)
 
 
 - **Controle de equipe**
