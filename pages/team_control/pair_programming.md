@@ -1565,6 +1565,9 @@ A programação em pares oferece diversos benefícios, como:
                         </a>
                     </td>
                     <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
+                            [HU 02] - Controle da visualização das opções do sistema através do perfil (apoio)
+                        </a><br />
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
                             [HU 06] - Cadastro de Processos(apoio)
                         </a><br />
@@ -1614,6 +1617,58 @@ A programação em pares oferece diversos benefícios, como:
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/142">
                             Corrigir documentação de Custos
                         </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/186">
+                            Arrumar documento de arquitetura do projeto
+                        </a><br />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/185">
+                            Atualizar EAP
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/144">
+                            Atualizar documento de Qualidade
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/143">
+                            Criar documento de Metodologia
+                        </a><br />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
+                            <figure>
+                                <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
+                            <figure>
+                                <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
+                            <figure>
+                                <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/174">
+                            Planejado X Realizado
+                        </a>
                     </td>
                 </tr>
             </tbody>
