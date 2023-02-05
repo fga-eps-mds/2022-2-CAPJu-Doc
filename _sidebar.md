@@ -38,3 +38,4 @@
 
   - [Documento de Arquitetura](pages/documentation/architecture)
   - [lean Inception](pages/documentation/leaninception)
+  - [Planejado x Realizado](pages/documentation/plainVsExecute)
