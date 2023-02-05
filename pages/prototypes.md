@@ -17,7 +17,10 @@ A prototipagem pode ser dividida em tres tipos:
 | Funcionalidade | Responsável | Protótipo |
 | :---: | :---: | :---: |
 | Unidades, Fluxos, Perfis, Processos | [Equipe CAPju 2022-1](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/?id=capju)  | [Figma](https://www.figma.com/file/7alUqTcWlfrxquXZbyhxjz/CAPJu)  |
-| Anotações | [Lucas](https://github.com/LucasLopesFrazao) e [Chaydson](https://github.com/chaydson) |[Figma](https://www.figma.com/file/RiXVNKDjh79kkChz1LHnph/MDS-(CAPju)?node-id=0%3A1&t=kHXQSPijg4X3bhVG-1) |
+| Anotações | [Lucas Lopes](https://github.com/LucasLopesFrazao) e [Chaydson Ferreira](https://github.com/chaydson) |[Figma](https://www.figma.com/file/NGxjqQynfoDgIbCqeefvW4/Capju-2022-2?node-id=0%3A1&t=oNQhqLc7onNUZMR8-1) |
+| Fluxos | [Fernando Miranda](https://github.com/ilus1) | [Figma](https://www.figma.com/file/NGxjqQynfoDgIbCqeefvW4/Capju-2022-2?node-id=0%3A1&t=oNQhqLc7onNUZMR8-1) |
+| Processos prioritários | [Ana Luiza](https://github.com/analuizargds) e [Henrique Pucci](https://github.com/HenriPucci) | [Figma](https://www.figma.com/file/NGxjqQynfoDgIbCqeefvW4/Capju-2022-2?node-id=0%3A1&t=oNQhqLc7onNUZMR8-1) |
+| Notificações/emails | [Lucas Lopes](https://github.com/LucasLopesFrazao) e [Pedro Henrique](https://github.com/PedroHenrique2077) | [Figma](https://www.figma.com/file/NGxjqQynfoDgIbCqeefvW4/Capju-2022-2?node-id=0%3A1&t=oNQhqLc7onNUZMR8-1) |
 
 ## Referências
 
@@ -30,3 +33,4 @@ A prototipagem pode ser dividida em tres tipos:
 | Data       | Versão | Descrição                                        | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------ | --------------- |
 | 10/12/2022 | 0.1.0  | Primeira versão do documento                | Fernando M. |
+| 05/02/2023 | 1.0.0  | Adicionados todos os protótipos feitos pela equipe   | Fernando M. |
