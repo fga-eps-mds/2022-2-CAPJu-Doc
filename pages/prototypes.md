@@ -33,4 +33,4 @@ A prototipagem pode ser dividida em tres tipos:
 | Data       | Versão | Descrição                                        | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------ | --------------- |
 | 10/12/2022 | 0.1.0  | Primeira versão do documento                | Fernando M. |
-| 05/02/2022 | 1.0.0  | Adicionados todos os protótipos feitos pela equipe   | Fernando M. |
+| 05/02/2023 | 1.0.0  | Adicionados todos os protótipos feitos pela equipe   | Fernando M. |
