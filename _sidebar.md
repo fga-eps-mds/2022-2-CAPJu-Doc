@@ -38,3 +38,4 @@
 
   - [Documento de Arquitetura](pages/documentation/architecture)
   - [lean Inception](pages/documentation/leaninception)
+  - [Metodologia Ágil](pages/documentation/agile_methodology)
