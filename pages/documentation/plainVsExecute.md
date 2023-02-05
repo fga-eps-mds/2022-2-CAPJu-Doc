@@ -4,7 +4,34 @@
 
 ## 2. Backlog
 
-## 3. Histórias de usuários
+## 3. Histórias de usuários (HU)
+
+### 3.1 Planejadas
+
+- [[HU - 01] - Gerenciar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/41);
+- [[HU 02] - Controle da visualização das opções do sistema através do perfil](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93);
+- [[HU 03] - Autenticação dos usuários](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/94);
+- [[HU 04] - Estatísticas dos processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/95);
+- [[HU 05] - Ordenação das listas](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/96);
+- [[HU 06] - Cadastro de Processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97);
+- [[HU 07] - Gerar notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132);
+- [[HU 08] - Impedir etapas com o mesmo nome](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/154);
+
+### 3.2 Realizado
+
+- [[HU - 01] - Gerenciar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/41);
+- [[HU 03] - Autenticação dos usuários](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/94);
+- [[HU 06] - Cadastro de Processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97);
+- [[HU 07] - Gerar notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132);
+- [[HU 08] - Impedir etapas com o mesmo nome](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/154);
+
+### 3.3 Análise
+
+Foram planejadas 8 Histórias de Usuário e 5 delas já foram realizadas. Isso significa que 63% das funcionalidades planejadas já foram implementadas. Embora já tenha havido um avanço, ainda existem 3 Histórias de Usuário pendentes de implementação que são:
+
+- [[HU 02] - Controle da visualização das opções do sistema através do perfil](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93);
+- [[HU 04] - Estatísticas dos processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/95);
+- [[HU 05] - Ordenação das listas](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/96);
 
 ## 4. Custo
 
@@ -34,3 +61,5 @@ Em resumo, a tabela de risco realizado mostra que houve uma subestimação em al
 | :--: | :--: | :--: | :--: |
 | 04/02/2023 | 0.0.1  | Criação da página de documentação  | Antônio Aldísio |
 | 05/02/2023 | 0.0.2  | Inclusão do item 6. Risco | Antônio Aldísio |
+| 05/02/2023 | 0.0.3  | Inclusão do item 3. Risco | Antônio Aldísio |
+
