@@ -47,15 +47,23 @@ JWT_SECRET=
 
 ```
 
+obs: a env JWT_SECRET deve ser igual em todos os repositórios.
+
 Para o repositório interface configure o .env da seguinte forma:
 
 ```
 JWT_SECRET=
-API_SERVICE=
-API_USER=
+API_SERVICE= <url do service>
 ```
 
-### 3. Instalado bibliotecas do node
+### 3. Comandos para criar o banco e popular
+
+É necessário está no repositorio do service e dar o seguinte comando:
+
+```
+yarn migration &&  yarn seed
+```
+### 4. Instalado bibliotecas do node
 
 
 Para instalar as bibliotecas de cada repositorio basta apenas executar o seguinte comando:
@@ -64,7 +72,7 @@ Para instalar as bibliotecas de cada repositorio basta apenas executar o seguint
 yarn install
 ```
 
-### 4. Executando o projeto
+### 5. Executando o projeto
 
 Para executar o projeto é recomendado executar os comandos primeiramente nos repositórios de back-end e, em seguida no repositório de front-end. Tamém é recomendado que cada serviço utilize um terminal diferente. O comando utilizado para executar o projeto é o seguinte:
 
