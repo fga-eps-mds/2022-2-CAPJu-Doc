@@ -5,7 +5,7 @@
 Essa sessão tem como objetivo orientar o passos a passos para rodar esse projeto em sua máquina local
 
 
-# 2. Requisitos mínimos
+# 2. Requisitos recomendados
 
 
 ## Hardware
@@ -35,7 +35,7 @@ git clone git@github.com:fga-eps-mds/2022-2-CAPJu-User-NEW.git
 
 ### 2. Configurando .env
 
-Crie um arquivo chamado .env nos repositórios service e user-new, com o conteúdo igual demonstrado abaixo:
+Crie um arquivo chamado .env no repositório raiz, em service e user-new, com o conteúdo igual ao demonstrado abaixo:
 
 ```
 POSTGRES_HOST=
@@ -47,7 +47,8 @@ JWT_SECRET=
 
 ```
 
-obs: a env JWT_SECRET deve ser igual em todos os repositórios.
+obs: as envs do POSTGRES são originadas de quando se monta o banco postgre.
+obs²: a env JWT_SECRET deve ser igual em todos os repositórios.
 
 Para o repositório interface configure o .env da seguinte forma:
 
@@ -58,7 +59,7 @@ API_SERVICE= <url do service>
 
 ### 3. Comandos para criar o banco e popular
 
-É necessário está no repositorio do service e dar o seguinte comando:
+É necessário estar no repositorio do service e executar o seguinte comando:
 
 ```
 yarn migration &&  yarn seed
@@ -83,8 +84,8 @@ yarn start
 
 # Histórico de versões
 
-| Data       | Versão | Descrição                                                                   | Autor                                        |
-| ---------- | ------ | --------------------------------------------------------------------------- | -------------------------------------------- |
-| 30/01/2023 | 1.0.0    | Adicionando roteiro execução do projeto                          | Antônio Aldísio                      |
--------------------------------------------- |
-| 04/01/2023 | 1.0.1    | Revisão do documento                          | Fernando Miranda                      |
+| Data       | Versão | Descrição                                      | Autor                                |
+| ---------- | ------ | ---------------------------------------------- |------------------------------------- |
+| 30/01/2023 | 1.0.0  | Adicionando roteiro execução do projeto        | Antônio Aldísio                      |
+| 04/01/2023 | 1.0.1  | Revisão do documento                           | Fernando Miranda                     |
+| 05/01/2023 | 1.0.2  | Revisão do documento²                          | Fernando Miranda                     |
