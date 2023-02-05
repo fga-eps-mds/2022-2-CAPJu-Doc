@@ -1185,6 +1185,15 @@ A programação em pares oferece diversos benefícios, como:
                                 <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
                             </figure>
                         </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/147">
+                           Retirar ambiente da azure
+                        </a><br />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
                         <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
                             <figure>
                                 <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
@@ -1690,3 +1699,4 @@ A programação em pares oferece diversos benefícios, como:
 | ---------- | ------ | ----------------------------------------------------------- |  ------------- |
 | 10/12/2022 | 0.1.0  | Criação do registro de pareamentos                          | Fernando M.    |
 | 05/02/2023 | 1.0.0  | Registro final dos pareamentos feitos durante a disciplina  | Fernando M.    |
+| 05/02/2023 | 1.0.1  | Revisão do documento  | Antônio Aldísio    |
