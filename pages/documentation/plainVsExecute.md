@@ -4,7 +4,46 @@
 
 Este arquivo tem como objetivo apresentar a comparação entre o que foi planejado e o que foi executado no desenvolvimento do projeto. O Backlog, as Histórias de Usuários (HU), o Custo, a Qualidade e o Risco serão avaliados e comparados para entender o andamento do projeto.
 ## 2. Backlog
+
 ### 2.1 Planejadas
+
+- [[HU - 01] - Gerenciar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/41);
+- [[HU 02] - Controle da visualização das opções do sistema através do perfil](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93);
+- [[HU 03] - Autenticação dos usuários](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/94);
+- [[HU 04] - Estatísticas dos processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/95);
+- [[HU 05] - Ordenação das listas](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/96);
+- [[HU 06] - Cadastro de Processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97);
+- [[HU 07] - Gerar notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132);
+- [[HU 08] - Impedir etapas com o mesmo nome](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/154);
+- [Migração do banco de dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/118)
+- [Script de Criação do banco](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/111)
+- [Refatoração de Microserviços](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/117)
+- [Movimentação do processo dentro do fluxo](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/117)
+- Separação das informações por unidade
+
+
+### 2.2 Realizado
+
+- [[HU - 01] - Gerenciar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/41);
+- [[HU 03] - Autenticação dos usuários](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/94);
+- [[HU 06] - Cadastro de Processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97);
+- [[HU 07] - Gerar notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132);
+- [[HU 08] - Impedir etapas com o mesmo nome](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/154);
+- [Migração do banco de dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/118)
+- [Script de Criação do banco](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/111)
+### 2.3 Análise
+
+Foram planejadas 13 atividades no backlog e 7 delas já foram realizadas. Isso significa que 53% de atividades planejadas já foram implementadas. Um dos motivos para ter esse valor foi a dificuldade em entregar a atividade
+- [Migração do banco de dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/118), isso aconteceu pelos os motivos de falta de conhecimento técnico na ORM escolhida pelo o projeto e mantenabilidade do projeto
+
+Existem 6 atividades pendentes de implementação que são:
+
+- [[HU 02] - Controle da visualização das opções do sistema através do perfil](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93);
+- [[HU 04] - Estatísticas dos processos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/95);
+- [[HU 05] - Ordenação das listas](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/96);
+- [Refatoração de Microserviços](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/117)
+- [Movimentação do processo dentro do fluxo](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/117)
+- Separação das informações por unidade
 
 ## 3. Histórias de usuários (HU)
 
@@ -63,6 +102,8 @@ Em resumo, a tabela de risco realizado mostra que houve uma subestimação em al
 | :--: | :--: | :--: | :--: |
 | 04/02/2023 | 0.0.1  | Criação da página de documentação  | Antônio Aldísio |
 | 05/02/2023 | 0.0.2  | Inclusão do item 6. Risco | Antônio Aldísio |
-| 05/02/2023 | 0.0.3  | Inclusão do item 3. Backlog | Antônio Aldísio |
+| 05/02/2023 | 0.0.3  | Inclusão do item 3. Histórias de usuários (HU) | Antônio Aldísio |
 | 05/02/2023 | 0.0.2  | Inclusão do item 1. Introdução | Antônio Aldísio |
+| 05/02/2023 | 0.0.3  | Inclusão do item 2. Backlog | Antônio Aldísio |
+
 
