@@ -13,7 +13,7 @@
   - [Protótipos](pages/prototypes)
 
 - **Gestão**
-
+  - [Metodologia Ágil](pages/documentation/agile_methodology)
   - [Planejamento](pages/planning)
   - Semanas
     - [Semana 01](pages/semanas/semana01.md)
@@ -39,3 +39,4 @@
   - [Documento de Arquitetura](pages/documentation/architecture)
   - [lean Inception](pages/documentation/leaninception)
   - [Manual de execução](pages/documentation/manual)
+
