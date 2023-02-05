@@ -2,7 +2,9 @@
 
 ## 1. Introdução
 
+Este arquivo tem como objetivo apresentar a comparação entre o que foi planejado e o que foi executado no desenvolvimento do projeto. O Backlog, as Histórias de Usuários (HU), o Custo, a Qualidade e o Risco serão avaliados e comparados para entender o andamento do projeto.
 ## 2. Backlog
+### 2.1 Planejadas
 
 ## 3. Histórias de usuários (HU)
 
@@ -61,5 +63,6 @@ Em resumo, a tabela de risco realizado mostra que houve uma subestimação em al
 | :--: | :--: | :--: | :--: |
 | 04/02/2023 | 0.0.1  | Criação da página de documentação  | Antônio Aldísio |
 | 05/02/2023 | 0.0.2  | Inclusão do item 6. Risco | Antônio Aldísio |
-| 05/02/2023 | 0.0.3  | Inclusão do item 3. Risco | Antônio Aldísio |
+| 05/02/2023 | 0.0.3  | Inclusão do item 3. Backlog | Antônio Aldísio |
+| 05/02/2023 | 0.0.2  | Inclusão do item 1. Introdução | Antônio Aldísio |
 
