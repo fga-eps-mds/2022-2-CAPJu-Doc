@@ -11,9 +11,26 @@
 ## 5. Qualidade
 
 ## 6. Risco
+### 6.1 Tabela de Resumo
 
+<iframe height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRZooYejwZH0opexzOVKRTiTWG3Tq1coMj5tlkECLhZwS8mXm9utIoQV92xUl5HA/pubhtml?gid=19306494&single=true"></iframe>
+
+### 6.2 Gráfico de burndown
+
+<iframe height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRZooYejwZH0opexzOVKRTiTWG3Tq1coMj5tlkECLhZwS8mXm9utIoQV92xUl5HA/pubhtml?gid=612310020&single=true"></iframe>
+
+### 6.3 Análise
+
+Ao observar  tabela de resumo e  gráfico planejado e compara  tabela de resumo e  gráfico realizado, foi possivel notar que, no item "Membros abandonarem a disciplina", a tabela de risco realizado mostra que o impacto foi maior do que o planejado em alguns sprints, especialmente nos sprints 1 e 5. Isso indica que houve problemas com a retenção de membros e pode requerer ações corretivas para garantir a continuidade do projeto.
+
+Já no item "Planejamento de tempo feito de forma equivocada", a tabela de risco realizado indica que o impacto foi menor do que o planejado em alguns sprints, mas ainda foi significativo. Isso sugere que a equipe precisa melhorar sua habilidade de planejamento e garantir que as estimativas de tempo sejam precisas para evitar atrasos no projeto.
+
+Ao analisar o item "Não entregar o MVP" nas tabelas de risco planejado e realizado, podemos notar que houve uma subestimação do risco neste item. A média do risco planejado é de 9, enquanto a média do risco realizado é de 16, o que indica que o risco foi muito maior do que o esperado.
+
+Em resumo, a tabela de risco realizado mostra que houve uma subestimação em alguns itens, especialmente no item "Não entregar o MVP", e a equipe precisa trabalhar para melhorar a precisão de suas estimativas de risco. Além disso, houve problemas com a retenção de membros e a equipe precisa tomar medidas para garantir a continuidade do projeto. Por fim, é importante destacar a necessidade de melhorar a habilidade de planejamento para evitar atrasos no projeto.
 ## Histórico de versão
 
 | Data  | Versão | Descrição | Autor(es) |
 | :--: | :--: | :--: | :--: |
 | 04/02/2023 | 0.0.1  | Criação da página de documentação  | Antônio Aldísio |
+| 05/02/2023 | 0.0.2  | Inclusão do item 6. Risco | Antônio Aldísio |
