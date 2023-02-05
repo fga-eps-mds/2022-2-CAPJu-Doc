@@ -39,7 +39,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/13">
                             Documentação da Pagina de Apresentação
                         </a>
@@ -58,7 +58,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/5">
                             Registro de Disponibilidade
                         </a>
@@ -77,7 +77,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/3">
                             Estrutura de Comunicação
                         </a>
@@ -96,7 +96,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/4">
                             Registro de Treinamentos
                         </a>
@@ -126,7 +126,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/10">
                             Documentação do quadro de conhecimentos
                         </a>
@@ -140,7 +140,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/1">
                             Configurar doscify
                         </a>
@@ -196,7 +196,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/27">
                             Testes funcionais
                         </a>
@@ -271,7 +271,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/26">
                             Lean Inception - Revisão técnica, de negócio e UX
                         </a>
@@ -301,7 +301,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/42">
                             Prototipação das telas de gerenciamento de anotação
                         </a>
@@ -315,7 +315,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/12">
                             Correção da listagem de administradores da Unidade
                         </a></br>
@@ -332,7 +332,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/12">
                             Correção da listagem de administradores da Unidade
                         </a></br>
@@ -349,7 +349,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
                             Correção da modal de novas anotações
                         </a>
@@ -363,7 +363,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
                             Correção da modal de novas anotações
                         </a>
@@ -377,7 +377,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
                             Correção da modal de novas anotações
                         </a>
@@ -402,7 +402,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/28">
                             Atualizar documentação do guia de contribuição
                         </a>
@@ -436,7 +436,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/27">
                             Documentação da EAP inicial do projeto
                         </a>
@@ -471,7 +471,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/42">
                             Prototipação das telas de gerenciamento de anotação
                         </a>
@@ -490,7 +490,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/12">
                             Correção da listagem de administradores da Unidade
                         </a></br>
@@ -512,7 +512,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46">
                             Correção da modal de novas anotações
                         </a>
@@ -537,7 +537,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/32">
                             Criar componente para tabelas e aumentar cobertura de testes
                         </a>
@@ -551,7 +551,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/33">
                             Configurar etiquetas no Github
                         </a>
@@ -565,7 +565,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-service/issues/5">
                             Preparação do Banco de Dados
                         </a>
@@ -579,7 +579,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         Criar pipeline de CD em: 
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-user/issues/5">
                             User, 
@@ -600,7 +600,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/40">
                             Criação de documentos de Custos, Riscos e Qualidade
                         </a>
@@ -634,7 +634,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/28">
                             Modelagem inicial dos dados
                         </a>
@@ -668,7 +668,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/45">
                             Botão de criação de anotação
                         </a>
@@ -687,7 +687,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/43">
                             Edição de anotação
                         </a>
@@ -706,7 +706,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-interface/issues/44">
                             Deletar uma anotação
                         </a>
@@ -731,7 +731,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/62">
                             Documentação do quadro de pareamentos
                         </a></br>
@@ -759,7 +759,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/33">
                             Configurar etiquetas no Github
                         </a></br>
@@ -781,7 +781,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/101">
                             Atualizar documento de comunicação
                         </a></br>
@@ -824,7 +824,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/57">
                             Adicionar campo (obrigatório) de CPF no cadastro de um usuário
                         </a>
@@ -843,7 +843,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/123">
                             Alterar o identificador do usuário, no momento de login, de email para CPF
                         </a><br />
@@ -865,7 +865,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/125">
                             Validar nome de usuário
                         </a><br />
@@ -893,7 +893,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Service/pull/20">
                             Alteração do endpoint de cadastro e edição de fluxos
                         </a><br />
@@ -910,7 +910,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/36">
                             [Tarefa - 06] Integração do SonarQube na esteira de CICD
                         </a>
@@ -934,7 +934,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136">
                             Migrar Banco de Dados e Remodelar Base de Dados
                         </a>
@@ -969,7 +969,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/138">
                             Refatoração do codigo onde não precisa de autoclose
                         </a><br />
@@ -991,7 +991,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/64">
                             <s>Transformar modal em componente</s>
                         </a>
@@ -1010,7 +1010,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/139">
                             Retirada de ternários
                         </a><br />
@@ -1035,7 +1035,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141">
                             Cadastro de usuários como recebedores de notificações
                         </a>
@@ -1059,7 +1059,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136">
                             Migrar Banco de Dados e Remodelar Base de Dados
                         </a>
@@ -1071,7 +1071,7 @@ A programação em pares oferece diversos benefícios, como:
 </div>
 
 
-### Sprint 5-6
+### Sprint 5
 <div class="SprintPairingTables">
     <div>
         <h4>MDS</h4>
@@ -1094,7 +1094,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132">
                             [HU 07] - Gerar notificações
                         </a><br />
@@ -1119,7 +1119,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
                             [HU 02] - Controle da visualização das opções do sistema através do perfil(desenvolvimento)
                         </a>
@@ -1138,7 +1138,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
                             [HU 06] - Cadastro de Processos(desenvolvimento)
                         </a>
@@ -1163,7 +1163,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141">
                             Cadastro de usuários como recebedores de notificações(apoio)
                         </a><br />
@@ -1196,7 +1196,144 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136">
+                            Migrar Banco de Dados e Remodelar Base de Dados
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/152">
+                            Serviço de envio de e-mail (apoio)
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+### Sprint 6
+<div class="SprintPairingTables">
+    <div>
+        <h4>MDS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
+                            <figure>
+                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
+                            <figure>
+                                <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132">
+                            [HU 07] - Gerar notificações
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141">
+                            Cadastro de usuários como recebedores de notificações (teste)
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/152">
+                            Serviço de envio de e-mail (teste)
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
+                            <figure>
+                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/SamuelGSouza" target="_blank" title="Samuel Gomes">
+                            <figure>
+                                <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
+                            [HU 02] - Controle da visualização das opções do sistema através do perfil(teste)
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
+                            <figure>
+                                <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
+                            <figure>
+                                <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
+                            [HU 06] - Cadastro de Processos(teste)
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <h4>EPS</h4>
+        <table>
+            <thead>
+                <td><center><b>Participantes</b></center></td>
+                <td><center><b>Tarefa</b></center></td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
+                            <figure>
+                                <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141">
+                            Cadastro de usuários como recebedores de notificações(apoio)
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
+                            [HU 02] - Controle da visualização das opções do sistema através do perfil(apoio)
+                        </a><br />
+                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
+                            [HU 06] - Cadastro de Processos(apoio)
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TablePhotoColumn">
+                        <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
+                            <figure>
+                                <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
+                            <figure>
+                                <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
+                            </figure>
+                        </a>
+                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
+                            <figure>
+                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
+                            </figure>
+                        </a>
+                    </td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136">
                             Migrar Banco de Dados e Remodelar Base de Dados
                         </a><br />
@@ -1234,144 +1371,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132">
-                            [HU 07] - Gerar notificações
-                        </a><br />
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141">
-                            Cadastro de usuários como recebedores de notificações (teste)
-                        </a><br />
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/152">
-                            Serviço de envio de e-mail (teste)
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="TablePhotoColumn">
-                        <a class="PairingPhoto" href="https://github.com/chaydson" target="_blank" title="Chaydson Ferreira">
-                            <figure>
-                                <img  src="https://github.com/chaydson.png" alt="Foto do Chaydson Ferreira">
-                            </figure>
-                        </a>
-                        <a class="PairingPhoto" href="https://github.com/SamuelGSouza" target="_blank" title="Samuel Gomes">
-                            <figure>
-                                <img  src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes">
-                            </figure>
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
-                            [HU 02] - Controle da visualização das opções do sistema através do perfil(teste)
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="TablePhotoColumn">
-                        <a class="PairingPhoto" href="https://github.com/HenriPucci" target="_blank" title="Henrique Pucci">
-                            <figure>
-                                <img  src="https://github.com/HenriPucci.png" alt="Foto do Henrique Pucci">
-                            </figure>
-                        </a>
-                        <a class="PairingPhoto" href="https://github.com/analuizargds" target="_blank" title="Ana Luiza">
-                            <figure>
-                                <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues">
-                            </figure>
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
-                            [HU 06] - Cadastro de Processos(teste)
-                        </a>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    <div>
-        <h4>EPS</h4>
-        <table>
-            <thead>
-                <td><center><b>Participantes</b></center></td>
-                <td><center><b>Tarefa</b></center></td>
-            </thead>
-            <tbody>
-                <tr>
-                    <td class="TablePhotoColumn">
-                        <a class="PairingPhoto" href="https://github.com/ilus1" target="_blank" title="Fernando Miranda">
-                            <figure>
-                                <img  src="https://github.com/ilus1.png" alt="Foto do Fernando Miranda">
-                            </figure>
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141">
-                            Cadastro de usuários como recebedores de notificações(apoio)
-                        </a><br />
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
-                            [HU 02] - Controle da visualização das opções do sistema através do perfil(apoio)
-                        </a><br />
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
-                            [HU 06] - Cadastro de Processos(apoio)
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td class="TablePhotoColumn">
-                        <a class="PairingPhoto" href="https://github.com/antonioaldisio" target="_blank" title="Antônio Aldísio">
-                            <figure>
-                                <img  src="https://github.com/antonioaldisio.png" alt="Foto do Antônio Aldísio">
-                            </figure>
-                        </a>
-                        <a class="PairingPhoto" href="https://github.com/DaviAntonio" target="_blank" title="Davi Antonio">
-                            <figure>
-                                <img  src="https://github.com/DaviAntonio.png" alt="Foto do Davi Antonio">
-                            </figure>
-                        </a>
-                        <a class="PairingPhoto" href="https://github.com/vitorAlves7" target="_blank" title="João Vitor">
-                            <figure>
-                                <img  src="https://github.com/vitorAlves7.png" alt="Foto do João Vitor Ferreira">
-                            </figure>
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136">
-                            Migrar Banco de Dados e Remodelar Base de Dados
-                        </a><br />
-                        <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/152">
-                            Serviço de envio de e-mail (apoio)
-                        </a>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
-
-
-### Sprint 8
-<div class="SprintPairingTables">
-    <div>
-        <h4>MDS</h4>
-        <table>
-            <thead>
-                <td><center><b>Participantes</b></center></td>
-                <td><center><b>Tarefa</b></center></td>
-            </thead>
-            <tbody>
-                <tr>
-                    <td class="TablePhotoColumn">
-                        <a class="PairingPhoto" href="https://github.com/LucasLopesFrazao" target="_blank" title="Lucas Frazão">
-                            <figure>
-                                <img  src="https://github.com/LucasLopesFrazao.png" alt="Foto do Lucas Frazão">
-                            </figure>
-                        </a>
-                        <a class="PairingPhoto" href="https://github.com/PedroHenrique2077" target="_blank" title="Pedro Henrique">
-                            <figure>
-                                <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique Rodrigues">
-                            </figure>
-                        </a>
-                    </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/132">
                             [HU 07] - Gerar notificações
                         </a><br />
@@ -1396,7 +1396,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
                             [HU 02] - Controle da visualização das opções do sistema através do perfil(Correções pós revisão)
                         </a>
@@ -1415,7 +1415,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
                             [HU 06] - Cadastro de Processos(Correções pós revisão)
                         </a>
@@ -1440,7 +1440,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/69">
                             Refatoração de todos os testes de front-end para o padrão de atributos do novo banco
                         </a>
@@ -1464,7 +1464,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/69">
                             Correções e adaptações de retorno em todos os endpoints
                         </a>
@@ -1475,7 +1475,7 @@ A programação em pares oferece diversos benefícios, como:
     </div>
 </div>
 
-### Sprint 9
+### Sprint 8
 <div class="SprintPairingTables">
     <div>
         <h4>MDS</h4>
@@ -1498,7 +1498,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/173">
                             Arrumar botões de criação
                         </a>
@@ -1517,7 +1517,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/93">
                             [HU 02] - Controle da visualização das opções do sistema através do perfil (Correções requisitadas pelo cliente)
                         </a><br />
@@ -1539,7 +1539,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
                             [HU 06] - Cadastro de Processos (Correções requisitadas pelo cliente)
                         </a>
@@ -1564,7 +1564,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/97">
                             [HU 06] - Cadastro de Processos(apoio)
                         </a><br />
@@ -1587,7 +1587,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/145">
                             Criar Manual de Instalação para o Usuário
                         </a><br />
@@ -1610,7 +1610,7 @@ A programação em pares oferece diversos benefícios, como:
                             </figure>
                         </a>
                     </td>
-                    <td>
+                    <td class="TableIssueColumn">
                         <a href="https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/142">
                             Corrigir documentação de Custos
                         </a><br />
