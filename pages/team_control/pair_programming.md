@@ -1631,6 +1631,7 @@ A programação em pares oferece diversos benefícios, como:
 
 ## Histórico de versão
 
-| Data       | Versão | Descrição                                                        | Autor(es)                  |
-| ---------- | ------ | ---------------------------------------------------------------- | -------------------------- |
-| 10/12/2022 | 0.1.0  | Criação do registro de pareamentos               | Fernando M.    |
+| Data       | Versão | Descrição                                                   | Autor(es)      |
+| ---------- | ------ | ----------------------------------------------------------- |  ------------- |
+| 10/12/2022 | 0.1.0  | Criação do registro de pareamentos                          | Fernando M.    |
+| 05/02/2023 | 1.0.0  | Registro final dos pareamentos feitos durante a disciplina  | Fernando M.    |
