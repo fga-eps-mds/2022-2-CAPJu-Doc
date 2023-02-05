@@ -123,9 +123,9 @@ Fonte: [CAPJu 2022-1 - Docs](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/pl
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição             | Autor(es)     |
-| ---------- | ------ | --------------------- | ------------- |
-| 02/12/2022 | 0.1.0  | Criação do documento  | Lude Ribeiro  |
-| 04/02/2023 | 0.2.0  | Criação do documento  | Lude Ribeiro  |
+| Data       | Versão | Descrição                                 | Autor(es)        |
+| ---------- | ------ | --------------------- ------------------- | -------------    |
+| 02/12/2022 | 0.1.0  | Criação do documento                      | Lude Ribeiro     |
+| 04/02/2023 | 1.0.0  | Adicionado gráfico de burndown de riscos  | Antonio Aldisio  |
 
 [PMBOK]:https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211#
