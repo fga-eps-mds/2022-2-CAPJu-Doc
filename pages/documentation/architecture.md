@@ -130,6 +130,12 @@ A camada **Controller** será responsável por intermediar as requisições envi
 
 * Express.js. Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Express.js>. Acesso em: 25 de jul. de 2022.
 
+* NodeJS Contributors. NodeJS. Disponível em: <https://nodejs.org/en/>. Acesso em: 06 de fevereiro de 2023.
+
+* Style Components Contributors. Styled Components. Disponível em: <https://styled-components.com/>. Acesso em: 06 de fevereiro de 2023.
+
+* The PostgreSQL Global Development Group. PostgresSQL. Disponível em: <https://www.postgresql.org/>. Acesso em: 06 de fevereiro de 2023.
+
 # Histórico de versões
 
 | Data       | Versão | Descrição                                                                   | Autor                                        |
