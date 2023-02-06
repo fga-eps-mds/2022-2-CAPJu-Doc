@@ -43,7 +43,6 @@
 
   - [Documento de Arquitetura](pages/documentation/architecture)
   - [lean Inception](pages/documentation/leaninception)
-  - [Próximos Passos](pages/documentation/nextsteps)
-  - [Planejado x Realizado](pages/documentation/plainVsExecute)
   - [Manual de execução](pages/documentation/manual)
-
+  - [Planejado x Realizado](pages/documentation/plainVsExecute)
+  - [Próximos Passos](pages/documentation/nextsteps)
