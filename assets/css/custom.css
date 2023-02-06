@@ -23,6 +23,10 @@
   height: 50px;
 }
 
+.TableIssueColumn {
+  width: 400px;
+}
+
 .TablePhotoColumn {
   display: flex;
   align-items: center;

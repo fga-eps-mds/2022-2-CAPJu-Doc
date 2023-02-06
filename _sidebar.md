@@ -13,7 +13,7 @@
   - [Protótipos](pages/prototypes)
 
 - **Gestão**
-
+  - [Metodologia Ágil](pages/documentation/agile_methodology)
   - [Planejamento](pages/planning)
   - Semanas
     - [Semana 01](pages/semanas/semana01.md)
@@ -21,8 +21,13 @@
     - [Semana 03](pages/semanas/semana03.md)
   - Sprints
     - [Sprint 01](pages/sprints/sprint01.md)
-    <!-- - [Sprint 02](pages/sprints/sprint02.md) -->
-
+    - [Sprint 02](pages/sprints/sprint02.md)
+    - [Sprint 03](pages/sprints/sprint03.md)
+    - [Sprint 04](pages/sprints/sprint04.md)
+    - [Sprint 05](pages/sprints/sprint05.md)
+    - [Sprint 06](pages/sprints/sprint06.md)
+    - [Sprint 07](pages/sprints/sprint07.md)
+    - [Sprint 08](pages/sprints/sprint08.md)
 
 - **Controle de equipe**
 
@@ -39,3 +44,5 @@
   - [Documento de Arquitetura](pages/documentation/architecture)
   - [lean Inception](pages/documentation/leaninception)
   - [Próximos Passos](pages/documentation/nextsteps)
+  - [Manual de execução](pages/documentation/manual)
+
