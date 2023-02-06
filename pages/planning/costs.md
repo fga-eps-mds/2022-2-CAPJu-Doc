@@ -5,17 +5,17 @@ Esse documento descreve os custos planejados para o desenvolvimento do projeto. 
 
 ## Planilha de Custos Gerais Planejados
 
-O custo total previsto para 11 alunos das disciplinas de Métodos de Desenvolvimento de Software (MDS) e Engenharia de Produto de Software (EPS) do semestre 2022.2 da UnB campus Gama, também conhecido como Faculdade do Gama (FGA). Esse custo foi estimado com base no custo médio por aluno da UnB de R$ 15,09 em 2014 [[2]](#2). Corrigindo pelo IPCA de 12/2014 a 12/2022, o custo médio por estudante é  de R$ 24,25.
+O custo total previsto para 13 alunos das disciplinas de Métodos de Desenvolvimento de Software (MDS) e Engenharia de Produto de Software (EPS) do semestre 2022.2 da UnB campus Gama, também conhecido como Faculdade do Gama (FGA). Esse custo foi estimado com base no custo médio por aluno da UnB de R$ 15,09 em 2014 [[2]](#2). Corrigindo pelo IPCA de 12/2014 a 12/2022, o custo médio por estudante é  de R$ 24,25.
 
-Para o custo da conexão à Internet, foram usados os dados da ICT de 2021, que lista o custo médio da banda larga no Brasil em US$ 18,39 [[5]](#5). Considerando que a média da taxa de conversão no período da pesquisa, que foi entre abril e junho de 2021, é de 5,29 [[6]](#6), o custo de acesso à Internet previsto foi de R$ 92,28 por aluno.
+Para o custo da conexão à Internet, foram usados os dados da ICT de 2021, que lista o custo médio da banda larga no Brasil em US$ 18,39 [[5]](#5). Considerando que a média da taxa de conversão no período da pesquisa, que foi entre abril e junho de 2021, é de 5,29 [[6]](#6), o custo de acesso à Internet previsto foi de R$ 97,29 por aluno.
 
-O custo previsto para aquisição dos equipamentos considera que todos os onze membros da equipe possuirão *laptops* Lenovo com custo de R$ 3700 [[4]](#4).
+O custo previsto para aquisição dos equipamentos considera que todos os treze membros da equipe possuirão *laptops* Lenovo com custo de R$ 3700 [[4]](#4).
 
 O custo previsto de energia elétrica considerou o preço do kW/h residencial de R$ 0,69871000 [[3]](#3).
 
 A partir das informações mencionadas, construiu-se uma planilha de custos estimados do projeto, que está disponível na figura abaixo.
 
-<iframe height=900 widht=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGPoEReXmWLE13x7ImLf0LrChU9HEQYxLAuc0nuubEBBDH2Dpq7Bb57QOyqSOaBA/pubhtml?gid=1270892694&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubhtml?gid=602157328&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Histórico de Versão
 
