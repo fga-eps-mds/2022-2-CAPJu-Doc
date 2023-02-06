@@ -18,18 +18,16 @@ trabalhar com tarefas na area do DEVOPS e no front-end do projeto.
 
 | Tarefas | Repositório | Planning Poker |
 | -- | :--: |  :--: |
-| [[Tarefa - 02] Preparação do Banco de Dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Service/issues/5) | Service | 21 |
-| [Criação de documentos de Custos, Riscos e Qualidade.](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/40) | Doc | 8 |
-| [[Tarefa - 10] - Ambiente de homolagação](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/38) | Doc | 21 |
-| [[Tarefa - 03] Configurar etiquetas no Github](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/33) | Doc | 5 |
-| [[Tarefa - 01] - Prototipação das telas de gerenciamento de anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/42) | Interface | 13 |
-| [Criar componente para tabelas](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/32) | Interface | 8 |
-| [Criar componente para tabelas](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/\32) | Interface | 8 |
-| [Correção de titulo da Unidade](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/11) | Interface | 8 |
-| [Correção da modal de novas anotações](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/46) | Interface | -- |
-| [Criar pipeline de CD](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/39) | Interface | -- |
-| [Criar pipeline de CD](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/7) | Service | -- |
-| [Criar pipeline de CD](https://github.com/fga-eps-mds/2022-2-CAPJu-user/issues/5)| User | -- |
+|[Prototipação das telas de gerenciamento de anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/42) | Interface | 5 |
+| [Correção da listagem de administradores da Unidade](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/12) | Interface | 8 |
+| [Correção de titulo da Unidade](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/11) | Interface | 8 |
+| [Correção da modal de novas anotações](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/46) | Interface | 8 |
+| [Criar componente para tabelas e aumentar cobertura de testes](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/32) | Interface | 13 |
+| [Configurar etiquetas no Github](https://github.com/fga-eps-mds/2022-2-capju-doc/issues/33) | Doc | 5 |
+| [Preparação do Banco de Dados](https://github.com/fga-eps-mds/2022-2-capju-service/issues/5) | Service | 21 |
+| Criar pipeline de CD em: [User](https://github.com/fga-eps-mds/2022-2-capju-user/issues/5), [Service](https://github.com/fga-eps-mds/2022-2-capju-service/issues/7) e [Interface](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/39) | Todos | 13 |
+| [Criação de documentos de Custos, Riscos e Qualidade](https://github.com/fga-eps-mds/2022-2-capju-doc/issues/40) | Doc | 8 |
+| [Modelagem inicial dos dados](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/28) | Service | -- |
 
 
 ## Retrospectiva
@@ -46,7 +44,6 @@ Tivemos problemas em dimensionsar o tempo de execução das tarefas não finaliz
 | -- | :--: |
 | [[Tarefa - 02] Preparação do Banco de Dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Service/issues/5) | Service |
 | [Criação de documentos de Custos, Riscos e Qualidade.](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/40) | Doc |
-| [[Tarefa - 10] - Ambiente de homolagação](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/38) | Doc |
 
 
 
@@ -57,3 +54,4 @@ Tivemos problemas em dimensionsar o tempo de execução das tarefas não finaliz
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 11/12/2022 | 0.1.0 | Criação do documento | Antônio Aldísio |
+| 05/02/2023 | 1.0.0 | Adição das atividades realizadas | Fernando M. |
