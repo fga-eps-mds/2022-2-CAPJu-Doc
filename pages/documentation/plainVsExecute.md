@@ -93,11 +93,11 @@ Foram planejadas 8 Histórias de Usuário e 5 delas já foram realizadas. Isso s
 
 ### Planejado
 
-Dentro do planejamento, nosso objetivo era deixar o código seguro, mais rebusto para futuras implementações com menor acoplamento e com alta coesão. Com nenhum bugs experado, sem nenhuma vulnerabilidade. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
+Dentro do planejamento, nosso objetivo era deixar o código seguro e mais robusto para futuras implementações, com menor acoplamento e com alta coesão, tratando os bugs encontrados e sempre levando em conta as possíveis vulnerabilidades. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
 
 ### Executado
 
- O que foi executando foram algumas refatorações que exigiram muitas mudanças no que estava funcionando no código, afetando assim a cobertura de testes e algumas vulnerabilidades e uma cobertura de teste abaixo da esperada principalmente no repositório de service que obteve uma cobertura de 50,1%, já no repositório de interface foi atingida uma cobertura de testes de 75,5%.
+ O que foi executando foram algumas refatorações que exigiram muitas mudanças em como o código estava estruturado, afetando assim a cobertura de testes e algumas vulnerabilidades, assim como a cobertura de teste abaixo do esperado principalmente no repositório de service que obteve uma cobertura de 50,1%, já no repositório de interface foi atingida uma cobertura de testes de 75,5%.
 
 ## 6. Risco
 ### 6.1 Tabela de Resumo
@@ -110,9 +110,9 @@ Dentro do planejamento, nosso objetivo era deixar o código seguro, mais rebusto
 
 ### 6.3 Análise
 
-Ao observar  tabela de resumo e  gráfico planejado e compara  tabela de resumo e  gráfico realizado, foi possivel notar que, no item "Membros abandonarem a disciplina", a tabela de risco realizado mostra que o impacto foi maior do que o planejado em alguns sprints, especialmente nos sprints 1 e 5. Isso indica que houve problemas com a retenção de membros e pode requerer ações corretivas para garantir a continuidade do projeto.
+Ao observar  tabela de resumo e gráfico planejado, a comparação da tabela de resumo e gráfico realizado, foi possivel notar que, no item "Membros abandonarem a disciplina", a tabela de risco realizado mostra que o impacto foi maior do que o planejado em algumas sprints, especialmente nas sprints 1 e 5. Isso indica que houve problemas com a retenção de membros e pode requerer ações corretivas para garantir a continuidade do projeto.
 
-Já no item "Planejamento de tempo feito de forma equivocada", a tabela de risco realizado indica que o impacto foi menor do que o planejado em alguns sprints, mas ainda foi significativo. Isso sugere que a equipe precisa melhorar sua habilidade de planejamento e garantir que as estimativas de tempo sejam precisas para evitar atrasos no projeto.
+Já no item "Planejamento de tempo feito de forma equivocada", a tabela de risco realizado indica que o impacto foi menor do que o planejado em algumas sprints, mas ainda foi significativo. Isso sugere que a equipe precisa melhorar sua habilidade de planejamento e garantir que as estimativas de tempo sejam precisas para evitar atrasos no projeto.
 
 Ao analisar o item "Não entregar o MVP" nas tabelas de risco planejado e realizado, podemos notar que houve uma subestimação do risco neste item. A média do risco planejado é de 9, enquanto a média do risco realizado é de 16, o que indica que o risco foi muito maior do que o esperado.
 
@@ -128,3 +128,4 @@ Em resumo, a tabela de risco realizado mostra que houve uma subestimação em al
 | 05/02/2023 | 0.0.5  | Inclusão do item 2. Backlog | Antônio Aldísio |
 | 05/02/2023 | 0.0.6  |  Inclusão do item 5. Qualidade | João Vitor Alves |
 | 05/02/2023 | 0.0.7  |  Inclusão do item 4. Custo |Antônio Aldísio e Davi Antônio |
+| 05/02/2023 | 1.0.0  |  Revisão do documento | Fernando M. |
