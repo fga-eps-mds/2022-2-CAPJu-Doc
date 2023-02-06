@@ -142,3 +142,4 @@ A camada **Controller** será responsável por intermediar as requisições envi
 | ---------- | ------ | --------------------------------------------------------------------------- | -------------------------------------------- |
 | 11/12/2022 | 0.1.0  | Adicionando o tópico de Introdução e Objetivo                               | João Vitor Alves e Lude Ribeiro              |
 | 06/02/2023 | 0.2.0  | Remover bibliotecas não usadas e atualizar modelagem do BD                               | Davi Antônio da Silva Santos                 |
+| 06/02/2023 | 0.2.1  |Revisão do documento                              |  Antônio Aldísio                 |
