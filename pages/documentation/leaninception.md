@@ -86,10 +86,14 @@ Foi necessário redefinir o MVP do projeto com isso foi gerado um novo sequencia
 
 Esta é a etapa final da Lean Inception. Trata-se de um quadro que resume as discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento e traz como critérios a proposta do MVP, personas segmentadas, jornadas, funcionalidades, resultado esperado, métricas para validar as hipóteses do negócio e custo e cronograma.
 
-![canvasmvp](https://imgur.com/OjHBsqV.png)
+<img width="1200px"  class="center" src="../../../../assets/img/canvas.png">
 
-### 11.1 Canvas MVP Final
 
+### 11.1 Atualização
+
+Foi necessário refazer o canvas MVP do projeto como pode ser visto abaixo:
+
+<img width="1200px"  class="center" src="../../../../assets/img/canvasMVP.png">
 
 # Referências
 
