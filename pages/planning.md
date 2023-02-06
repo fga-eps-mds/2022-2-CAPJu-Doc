@@ -11,7 +11,6 @@
 | 29/11/2022 | Treinamento de JavaScript |
 | 28/11/2022 | [Sprint 01](pages/sprints/sprint01.md) |
 | 12/12/2022 | Entrega de release ao cliente |
-| 06/02/2023 | Entrega de release ao cliente |
 | 28/11/2022 | [Sprint 02](pages/sprints/sprint02.md) |
 | 12/12/2022 | [Sprint 03](pages/sprints/sprint03.md) |
 | 19/12/2022| Início recesso de fim de ano |
@@ -23,6 +22,7 @@
 | 23/01/2023 | [Sprint 07](pages/sprints/sprint07.md) |
 | 30/01/2023 | Entrega do MVP |
 | 30/01/2023 | [Sprint 08](pages/sprints/sprint08.md) |
+| 06/02/2023 | Entrega de release ao cliente |
 
 ## Histórico de versão
 
