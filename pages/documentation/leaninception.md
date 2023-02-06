@@ -20,7 +20,6 @@ Essa é a primeira etapa para se entender o produto e como ele agrega valor ao n
 
 O principal obejtivo dessa etapa, além de contribuir para o entedimento do produto é identificar os aspectos positivos e negativos do produto sobre o produto ser ou fazer algo. Para essa atividade os contribuintes separaram em quatro quadrantes o que entendem que o produto é, não é, faz e não faz. Assim, por meio desses quadrantes o grupo tem maior entendimento da categoria do produto e o que de fato espera-se que ele seja capaz de fazer e o que não deve fazer.
 
-
 ![É não é, Faz não faz](https://imgur.com/fVTo2M9.png)
 ![É não é, Faz não faz 2](https://imgur.com/MEC0Xil.png)
 
@@ -53,7 +52,7 @@ Juntamente com o exercício de personas, esta atividade procura traçar, de form
 | ![jornada_aristeu](https://imgur.com/GDgwWGx.png) | ![jornada_cleber](https://imgur.com/GTECu88.png) |
 |                             Juninho                             |                            Wagner                             |
 | ![jornada_juninho](https://imgur.com/jrCUw1w.png) | ![jornada_wagner](https://imgur.com/YII5LzZ.png) |
-|                             João                             | 
+|                             João                             |
 ![jornada_joao](https://imgur.com/i0CNtMM.png)
 
 ## 8. Brainstorming de Funcionalidades
@@ -75,21 +74,37 @@ O Sequenciador serve para deixar as funcionalidades de forma sequencial ao desen
 ![sequenciador](https://imgur.com/jLbUXij.png)
 ![sequenciador2](https://imgur.com/Y7l9pEg.png)
 
+### 10.1 Atualização
+
+Foi necessário redefinir o MVP do projeto com isso foi gerado um novo sequenciador
+
+<img width="1200px"  class="center" src="../../../../assets/img/novoSequenciador1.png">
+<img width="1200px"  class="center" src="../../../../assets/img/novoSequenciador2.png">
+
+
 ## 11. Canvas MVP
 
 Esta é a etapa final da Lean Inception. Trata-se de um quadro que resume as discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento e traz como critérios a proposta do MVP, personas segmentadas, jornadas, funcionalidades, resultado esperado, métricas para validar as hipóteses do negócio e custo e cronograma.
 
-![canvasmvp](https://imgur.com/OjHBsqV.png)
+<img width="1200px"  class="center" src="../../../../assets/img/canvas.png">
+
+
+### 11.1 Atualização
+
+Foi necessário refazer o canvas MVP do projeto como pode ser visto abaixo:
+
+<img width="1200px"  class="center" src="../../../../assets/img/canvasMVP.png">
 
 # Referências
 
-Capju. Capju. Documento de arquiterura. Disponível em: https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/projeto/documento-arquitetura. Acesso em: 10 de dez. de 2022.
+Capju. Capju. Documento de arquiterura. Disponível em: <https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/projeto/documento-arquitetura>. Acesso em: 10 de dez. de 2022.
 
 Paulo, Caroli. Lean Inception, 2003. Disponível em: <https://caroli.org/livro/lean-inception-como-alinhar-pessoas-e-construir-o-produto-certo/>. Acesso em: 10 de dez. de 2022.
 
-
 # Histórico de versões
 
-| Data       | Versão | Descrição                                                                   | Autor                                        |
-| ---------- | ------ | --------------------------------------------------------------------------- | -------------------------------------------- |
-| 11/12/2022 | 0.1.0    | Adicionando o tópico de Introdução e Objetivo                               | João Vitor Alves e Lude Ribeiro                      |
+| Data       | Versão | Descrição  | Autor   |
+| :--: | :--: | :--: | :--: |
+| 11/12/2022 | 0.1.0    | Adicionando o tópico de Introdução e Objetivo   | João Vitor Alves e Lude Ribeiro   |
+|03/02/2023| 0.1.1 | Adicionando novo sequenciador | Antônio Aldísio |
+|04/02/2023| 0.1.2 | Adicionando novo Canvas MVP | Antônio Aldísio |
