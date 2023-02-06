@@ -4,64 +4,20 @@
 
 Segundo a ISO/IEC 25010 a "Qualidade de um sistema é o grau em que o sistema satisfaz as necessidades declaradas e implícitas de suas várias partes interessadas e, portanto, fornece valor. Essas necessidades dos stakeholders (funcionalidade, desempenho, segurança, manutenibilidade etc.) são justamente o que está representado no modelo de qualidade, que categoriza a qualidade do produto em características e subcaracterísticas". Dessa forma, com o objetivo de detectar as não conformidades dentro do projeto e estabelecer ações corretivas e preventivas para entregar um produto que possua um grau elevado de satisfação para o usuário final, serão abordados neste Planejamento de Qualidade, práticas, modelos e parâmetros que permitam ao time atingir esse objetivo.
 
-Este documento usa como apoio o modelo de qualidade Q-Rapids que busca a integração de fontes de dados heterogêneas, a agregação e interpretação de dados brutos e a seleção de métricas relevantes e orientadas para o negócio, usamos também o [notebook](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/analytics.ipynb) da disciplina para apoiar as análises de dados da qualidade. Além disso, em paralelo utilizamos também a abordagem **GQM** (Goal Question Metrics) que é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O modelo GQM está dividido em três níveis: Nível Conceitual, nível Operacional e nível Quantitativo.
-
-Essa abordagem possui 3 níveis hierárquicos, são eles:
-
-**Conceitual (Objetivos):** Uma meta é definida para algum objeto de medição, esse objeto pode ser produtos, processos ou recursos.<br>
-**Operacional (Questões):** Elaborar perguntas que nos ajudam a caracterizar o objeto de medição e nos ajuda a escolher o ponto de vista da análise de qualidade que será feita.<br>
-**Quantitativo (Métricas):** Conjunto de dados que está associado às perguntas a fim de respondê-las.
-
-## Objetivos
-
-Para definição dos nossos objetivos de qualidade separamos a qualidade em duas categorias, sendo elas: Qualidade de Projeto e Qualidade de Produto.
-
-## Qualidade do Projeto
-
-### Objetivo 1 - Medir a Qualidade Organizacional do time
-
-Para que seja possível medir a qualidade interna organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Avaliaremos dentro do Objetivo 1, por exemplo, a participação do time nas cerimônias do Scrum e capacidade de entrega do time. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
-
-Conforme propõe a ISO/IEC 14598-1 que está direcionada ao ponto de vista de desenvolvedores que pretendem desenvolver um novo produto ou melhorar um produto existente, e pretendam executar avaliação de produto utilizando pessoas de seu próprio corpo técnico, pode-se fazer o uso de indicadores que ajudam a prever a qualidade do produto final através da medição de produtos intermediários desenvolvidos durante o ciclo de vida.
-
-Para medirmos a participação do time nas cerimonias do Scrum, inicialmente coletamos a cada reunião de _Retrospective_ e _Planning_ o relatório de presença gerado pela plataforma _Microsoft Teams_. Após esse passo, o time de EPS definiu uma escala própria para obter os resultados da participação do time nas reuniões de acordo com a tabela abaixo:
-
-| Escala de Participação | Significado |
-| ---------------------- | ----------- |
-| De 0% a 70%            | Ruim        |
-| De 70% a 90%           | Boa         |
-| De 90% a 100%          | Ótima       |
-
-Para obtermos métricas de qualidade a nível organizacional, foram escolhidos os seguintes aspectos para serem avaliados:
-
-| Objetivos | Questões | Métricas |
-| ---- | --------- | ------- |
-| 1    | Qual é a frequência de participação dos membros nas cerimonias do Scrum? Com que velocidade o time realiza entregas? | Velocity, Escala de participação nas cerimonias do Scrum |
-
-### Resultados da métrica de participação
-
-| Data da reunião | Porcentagem de participação |
-| --------------- | --------------------------- |
-| 12/07           | 100%                        |
-
-### Resultados da métrica de capacidade de entrega do time
-
-#### Velocity
-
-O Velocity é utilizado para medir a quantidade média de trabalho que uma equipe pode completar em um “ciclo de entrega” – normalmente um sprint.
-
 ## Qualidade do Produto
 
-### Objetivo 2 - Medir a Qualidade externa do Software
+Este documento usa como apoio das métricas de qualidades do SonarCloud afim de buscar uma qualidade do projeto, com intuito de interpretar dados brutos e a selecionar métricas relevantes para o projeto. Além disso foi planejado excutar alguns tipos de testes como testes unitários, de aceitação e de funcionalidade.
 
-Para avaliar a qualidade externa do software, que ocorre quando o software está sendo testado em um ambiente simulado, serão coletadas métricas por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
+### SonarCloud
+
+SonarCloud é uma plataforma de análise de código na nuvem que permite medir e melhorar a qualidade do seu código. Ele fornece uma ampla gama de recursos, incluindo verificações de código estático, análise de segurança, métricas de qualidade e integrações com o github. SonarCloud é baseado no projeto de código aberto SonarQube e oferece uma solução na nuvem fácil de usar para equipes de todos os tamanhos. Foram coletadas métricas após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
 
 - Manutenibilidade do código
 - Confiabilidade
 
 | Objetivos | Questões | Métricas |
 | ---- | --------- | ------- |
-| 2    | O código é reaproveitado? O código é legível? Após inserir novas funcionalidades é fácil identificar bugs? | files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
+| 1   | O código é reaproveitado? O código é legível? Após inserir novas funcionalidades é fácil identificar bugs? | files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
 
 ### Aspecto Manutenibilidade
 
@@ -82,8 +38,8 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       <img src="https://i.imgur.com/FWmlxJG.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
-      </p>
+       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
+       </p>
       </figcaption>
     <figure>
     </a>
@@ -102,7 +58,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       <img src="https://i.imgur.com/HcSasIK.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -115,7 +71,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       <img src="https://i.imgur.com/XAxupgE.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -132,7 +88,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       <img src="https://i.imgur.com/7wlLy4D.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -145,7 +101,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       <img src="https://i.imgur.com/em1EJmF.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -162,7 +118,7 @@ Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fato
   <img src="https://i.imgur.com/rhLy38Y.png">
   <figcaption>
   <br>
-  Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+  Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
   </p>
   </figcaption>
 <figure>
@@ -175,7 +131,7 @@ Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fato
   <img src="https://i.imgur.com/K7ifyHE.png">
   <figcaption>
   <br>
-  Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+  Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
   </p>
   </figcaption>
 <figure>
@@ -202,7 +158,7 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
       <img src="https://i.imgur.com/s444taf.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -219,7 +175,7 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
       <img src="https://i.imgur.com/nSRTZ2y.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -238,7 +194,7 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
       <img src="https://i.imgur.com/pi1v4yS.png">
       <figcaption>
       <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
     <figure>
@@ -257,7 +213,7 @@ Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, 
   <img src="https://i.imgur.com/jLAYQMS.png">
   <figcaption>
     <br>
-      Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+      Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
     </p>
   </figcaption>
 <figure>
@@ -270,22 +226,36 @@ Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, 
   <img src="https://i.imgur.com/maI6Byh.png">
   <figcaption>
   <br>
-  Fonte: <a target="_blank" href="https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade">CAPJu 2022-1 - Docs</a>
+  Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
   </p>
   </figcaption>
 <figure>
 
 Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
-### Objetivo 3 - Medir a Qualidade do Software em Uso
 
-É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade.
+## Testes Executados
 
-Dessa forma, para medirmos a qualidade do nosso software em uso seria necessário termos finalizado o desenvolvimento do software e disponibilizado para os usuários finais, no entanto, no momento isso não ase aplica, visto que ainda estamos em fase de desenvolvimento e sem acesso aos usuários finais. Mas futuramente pretendemos realizar testes de usabilidade com os usuários finais.
+### Testes unitários
 
-| Objetivos | Questões | Métricas |
-| ---- | --------- | ------- |
-| 3    | Qual o nível de satisfação do cliente ao navegar por cada funcionalidade? | Respostas dos testes de usabilidade via formulário |
+O teste unitário consiste em verificar o comportamento das menores unidades em sua aplicação. Tecnicamente, isso seria uma classe ou até mesmo um método de classe em línguas orientadas a objetos, e seria um procedimento ou função em línguas processuais e funcionais.
+
+#### Ferramentas para testes unitários
+
+**Jest**: O Jest é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine. Criado pelo Facebook, ele tem uma ótima interação com React. Mas também com outras tecnologias, como Vue.js, Angular e no back-end com o node. Além disso, é uma das ferramentas de teste unitário mais difundidas dentro da comunidade de JavaScript. O Jest pode ser usado para validar quase tudo em torno do JavaScript, especialmente a renderização do navegador de aplicativos da web. 
+
+**React Testing Library**: O React Testing Library é um conjunto de utilitários que permitem testar componentes React sem depender dos detalhes de implementação. Essa abordagem facilita a refatoração e também te orienta para as melhores práticas de acessibilidade. Embora não forneça uma maneira de renderizar “superficialmente” um componente sem seus filhos, um test runner como o Jest permite fazer isso através de mock
+
+### Teste de aceitação
+
+O teste de aceitação visa verificar se o sistema atende às expectativas do cliente ou usuário final quanto a suas funcionalidades e requisitos. Ele é geralmente realizado pelo cliente ou pelo time de teste em colaboração com o cliente, e tem como objetivo garantir que o software seja aceito e funcione corretamente antes de ser entregue para uso. Os testes são planejados e projetados com o mesmo cuidado e no mesmo detalhe que o teste do sistema. Os casos de teste escolhidos devem ser um subconjunto dos que foram realizados no teste do sistema. É importante não desviar de nenhum dos casos de teste escolhidos. Em muitas organizações, o teste de aceitação formal é totalmente automatizado.
+
+
+
+### Teste de funcionalidade
+
+Tem como função avaliar as funções do sistema observando se estão funcionando corretamente. Envolvendo testes anteriores como por exemplo, os testes de unidade, de integração, de sistema e etc. Testes de funcionalidade dão prioridade a navegação e as interações. 
+
 
 ## Referências
 
@@ -307,8 +277,15 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 
 > Software Development. 2018 44th Euromicro Conference on Software Engineering and Advanced Applications. Kaiserslautern, Germany, 2018. Disponível em: <https://ieeexplore.ieee.org/abstract/document/8498234?casa_token=8aE9OufxCwwAAAAA:0LeENRkDbLsapTL2LvdAXVk1pv2PMfMoAa1auLEu1OOqsAD0guuZnLG3V36Bf0JgGgkXnb7YqHE>
 
+> CAPJU, <https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/planejamento/planejamento-de-qualidade>. Acesso em: 04 de fev. 2023.
+
+> JEST, <https://jestjs.io/pt-BR/> Acesso em: 04 de fev. 2023.
+
+> REACT TESTING LIBRARY,  <https://testing-library.com/docs/react-testing-library/intro/> Acesso em: 04 de fev. 2023.
+
 ## Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 05/12/2022 | 0.1.0 | Criação do plano de qualidade | Lude Ribeiro |
+| 04/02/2023 | 1.0.0 | Alteração do plano de qualidade | João Vitor Alves |
