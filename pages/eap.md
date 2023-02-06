@@ -32,3 +32,4 @@ A EAP é uma árvore que possui três níveis:
 | ---------- | ------ | ---------------------------------------------------------------- | -------------------------- |
 | 23/11/2022 | 0.1.0  | Estrutura inicial                          | Fernando / Lude / João Vitor / Antônio / Davi    |
 | 28/11/2022 | 0.1.1  | Criação da página de documentação                                | Fernando                   |
+| 28/11/2022 | 0.1.2  | Alterar EAP                                | João Vitor Alves6             |
