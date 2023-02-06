@@ -76,9 +76,22 @@ Foram planejadas 8 Histórias de Usuário e 5 delas já foram realizadas. Isso s
 
 ## 4. Custo
 
+### 4.1 Realizado
+
+<iframe height=800  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubhtml?gid=381565668&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+### 4.2 Acompanhamento dos custo do projeto
+
+<iframe height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubhtml?gid=1534953278&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+### 4.2 Gráfico
+
+<iframe width="800" height="695" seamless frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubchart?oid=940562887&amp;format=interactive"></iframe>
+
 ## 5. Qualidade
 
-### Planejado 
+### Planejado
 
 Dentro do planejamento, nosso objetivo era deixar o código seguro, mais rebusto para futuras implementações com menor acoplamento e com alta coesão. Com nenhum bugs experado, sem nenhuma vulnerabilidade. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
 
@@ -114,3 +127,4 @@ Em resumo, a tabela de risco realizado mostra que houve uma subestimação em al
 | 05/02/2023 | 0.0.4  | Inclusão do item 1. Introdução | Antônio Aldísio |
 | 05/02/2023 | 0.0.5  | Inclusão do item 2. Backlog | Antônio Aldísio |
 | 05/02/2023 | 0.0.6  |  Inclusão do item 5. Qualidade | João Vitor Alves |
+| 05/02/2023 | 0.0.7  |  Inclusão do item 4. Custo |Antônio Aldísio e Davi Antônio |
