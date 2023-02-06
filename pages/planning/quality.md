@@ -256,13 +256,6 @@ O teste de aceitação visa verificar se o sistema atende às expectativas do cl
 
 Tem como função avaliar as funções do sistema observando se estão funcionando corretamente. Envolvendo testes anteriores como por exemplo, os testes de unidade, de integração, de sistema e etc. Testes de funcionalidade dão prioridade a navegação e as interações. 
 
-## Planejado 
-
-Dentro do planejamento, nosso objetivo era deixar o código seguro, mais rebusto para futuras implementações com menor acoplamento e com alta coesão. Com nenhum bugs experado, sem nenhuma vulnerabilidade. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
-
-## Executado
-
- O que foi executando foram algumas refatorações que exigiram muitas mudanças no que estava funcionando no código, afetando assim a cobertura de testes e algumas vulnerabilidades e uma cobertura de teste abaixo da esperada principalmente no repositório de service que obteve uma cobertura de 50,1%, já no repositório de interface foi atingida uma cobertura de testes de 75,5%.
 
 ## Referências
 
