@@ -84,20 +84,14 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
       <figcaption>João Vitor Ferreira</figcaption>
     </figure>
   </a>
-
-  <a class="HomeMemberPhoto" href="https://github.com/luderibeiro" target="_blank">
-    <figure>
-      <img  src="https://github.com/luderibeiro.png" alt="Foto do Lude Yuri de Castro">
-      <figcaption>Lude Yuri de Castro</figcaption>
-    </figure>
-  </a>
 </div>
 
 ## Repositórios dos Códigos Fonte do CAPju
 
-- [User](https://github.com/fga-eps-mds/2022-2-CAPJu-User)
 - [Service](https://github.com/fga-eps-mds/2022-2-CAPJu-Service)
 - [Interface](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface)
+- [User-new](https://github.com/fga-eps-mds/2022-2-CAPJu-User-new) - __Não concluido__
+- ~~[User-old](https://github.com/fga-eps-mds/2022-2-CAPJu-User-old)~~
 
 ## Histórico de versão
 
@@ -105,3 +99,4 @@ O funcionamento do programa trata-se da possibilidade dos usuários cadastratare
 | ---------- | ------ | ------------------------------------------------------------ | ---------        |
 | 14/11/2022 | 0.1.0  | Listagem dos membros de EPS/MDS e descrição do que é o CAPju | Lucas, Chaydson  |
 | 03/12/2022 | 0.1.1 | Atualização de lista de membro | Antônio Aldisio |
+| 03/02/2023 | 0.1.2 | Atualização de lista de membro e repositórios| Antônio Aldisio |

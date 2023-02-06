@@ -12,9 +12,21 @@
 | 28/11/2022 | [Sprint 01](./sprints/sprint01.md) |
 | 12/12/2022 | Entrega de release ao cliente |
 | 06/02/2023 | Entrega de release ao cliente |
+| 28/11/2022 | [Sprint 02](./sprints/sprint02.md) |
+| 12/12/2022 | [Sprint 03](./sprints/sprint03.md) |
+| 19/12/2022| Início recesso de fim de ano |
+| 02/01/2023| Fim do recesso de fim de ano |
+| 02/01/2023 | [Sprint 04](./sprints/sprint04.md) |
+| 09/01/2023 | [Sprint 05](./sprints/sprint05.md) |
+| 14/01/2023 | Revisão do MVP e alteração da data de entrega do MVP|
+| 16/01/2023 | [Sprint 06](./sprints/sprint06.md) |
+| 23/01/2023 | [Sprint 07](./sprints/sprint07.md) |
+| 30/01/2023 | Entrega do MVP |
+| 30/01/2023 | [Sprint 08](./sprints/sprint08.md) |
 
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 11/12/2022 | 0.1.0 | Criação do documento | Antônio Aldísio |
+| 04/02/2023 | 0.2.0 | Atualização do documento | Antônio Aldísio |

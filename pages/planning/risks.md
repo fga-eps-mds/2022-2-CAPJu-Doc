@@ -109,14 +109,23 @@ Fonte: [CAPJu 2022-1 - Docs](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/pl
 <iframe height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQspDzMJaFdgVSTEW8wMSh4PDblVjyfVTRkVHpIr8BWEfrusPbxiEqDRaM6gRiGcJgTJhgfzFBO5OU/pubhtml?widget=true&gid=1057019132&amp;headers=false&page=2"></iframe>
 <!-- ## Burndown de riscos -->
 
+## Tabela de resumo de acompanhamento de riscos
+
+<iframe height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQoMAPrG6QSS-z7VmdESHPPnZGYUjMiM7E7qt2piAcpiSmyUhBgIpLGYOXdWxiZKA/pubhtml?gid=19306494&single=true"></iframe>
+
+## Gráfico de Burndown de riscos
+
+<iframe height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQoMAPrG6QSS-z7VmdESHPPnZGYUjMiM7E7qt2piAcpiSmyUhBgIpLGYOXdWxiZKA/pubhtml?gid=612310020&single=true"></iframe>
+
 ## Referências
 
 > PMI. Um guia do conhecimento em gerenciamento de projetos. Guia [PMBOK] 5a. ed. - EUA: Project Management Institute, 2013.
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição             | Autor(es)     |
-| ---------- | ------ | --------------------- | ------------- |
-| 02/12/2022 | 0.1.0  | Criação do documento  | Lude Ribeiro  |
+| Data       | Versão | Descrição                                 | Autor(es)        |
+| ---------- | ------ | --------------------- ------------------- | -------------    |
+| 02/12/2022 | 0.1.0  | Criação do documento                      | Lude Ribeiro     |
+| 04/02/2023 | 1.0.0  | Adicionado gráfico de burndown de riscos  | Antonio Aldisio  |
 
 [PMBOK]:https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211#
