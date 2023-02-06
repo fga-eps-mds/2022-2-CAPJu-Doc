@@ -78,6 +78,14 @@ Foram planejadas 8 Histórias de Usuário e 5 delas já foram realizadas. Isso s
 
 ## 5. Qualidade
 
+### Planejado 
+
+Dentro do planejamento, nosso objetivo era deixar o código seguro, mais rebusto para futuras implementações com menor acoplamento e com alta coesão. Com nenhum bugs experado, sem nenhuma vulnerabilidade. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
+
+### Executado
+
+ O que foi executando foram algumas refatorações que exigiram muitas mudanças no que estava funcionando no código, afetando assim a cobertura de testes e algumas vulnerabilidades e uma cobertura de teste abaixo da esperada principalmente no repositório de service que obteve uma cobertura de 50,1%, já no repositório de interface foi atingida uma cobertura de testes de 75,5%.
+
 ## 6. Risco
 ### 6.1 Tabela de Resumo
 
@@ -103,7 +111,6 @@ Em resumo, a tabela de risco realizado mostra que houve uma subestimação em al
 | 04/02/2023 | 0.0.1  | Criação da página de documentação  | Antônio Aldísio |
 | 05/02/2023 | 0.0.2  | Inclusão do item 6. Risco | Antônio Aldísio |
 | 05/02/2023 | 0.0.3  | Inclusão do item 3. Histórias de usuários (HU) | Antônio Aldísio |
-| 05/02/2023 | 0.0.2  | Inclusão do item 1. Introdução | Antônio Aldísio |
-| 05/02/2023 | 0.0.3  | Inclusão do item 2. Backlog | Antônio Aldísio |
-
-
+| 05/02/2023 | 0.0.4  | Inclusão do item 1. Introdução | Antônio Aldísio |
+| 05/02/2023 | 0.0.5  | Inclusão do item 2. Backlog | Antônio Aldísio |
+| 05/02/2023 | 0.0.6  |  Inclusão do item 5. Qualidade | João Vitor Alves |
