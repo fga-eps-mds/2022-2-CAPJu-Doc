@@ -11,17 +11,19 @@
 
 ### Objetivo
 
-Essa sprint teve com objetivo continuar as atividades de código.
+Essa sprint teve com objetivo refatorações de partes do código.
 
 ### Tarefas
 
-| Tarefas | Planning Poker |
-| -- |  :--: |
-| [[Tarefa - 07] - Adequação do microserviço ao escopo](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/9) | -- |
-| [Atribuir prazo ao processo](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/133) | -- |
-| [Enviar notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/135) | -- |
-| [Verificação de processos atrasados](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/134) | -- |
-| [[HU 07] - Gerar notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/132) | 21 |
+
+| Tarefas | Repositório | Planning Poker |
+| -- | :--: |  :--: |
+| [Refatoração do codigo onde não precisa de autoclose](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/138) | Interface | 1 |
+| [Padronizar os botões do projeto para um único componente](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/140) | Interface | -- |
+| [Retirada de ternários](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/13) | Interface | -- |
+| [Cadastro de usuários como recebedores de notificações](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/141) | Interface | 5 |
+| [Migrar Banco de Dados e Remodelar Base de Dados](https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136) | Service | 40 |
+
 
 
 ## Histórico de versão
@@ -29,3 +31,4 @@ Essa sprint teve com objetivo continuar as atividades de código.
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 02/02/2023 | 0.1.0 | Criação do documento | Antônio Aldísio |
+| 05/02/2023 | 1.0.0 | Adição das atividades realizadas | Fernando M. |

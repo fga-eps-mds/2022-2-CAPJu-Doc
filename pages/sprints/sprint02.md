@@ -15,25 +15,22 @@ Essa sprint teve com objetivo iniciar as atividades relacionadas ao código.
 
 ### Tarefas
 
-| Tarefas | Planning Poker |
-| -- |  :--: |
-| [Migrar Banco de Dados e Remodelar Base de Dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/136) | 40 |
-| [[HU 03] - Autenticação dos usuários](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/94) | 8 |
-| [[HU - 01] - Gerenciar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-interface/issues/41) | 21 |
-| [[Tarefa - 03] Configurar etiquetas no Github](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/33) | 21 |
-| [[Tarefa - 10] - Ambiente de homolagação](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/38) | 13 |
-| [[Tarefa - 06] Integração do SonarQube na esteira de CICD](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/36) | 13 |
-| [[Tarefa - 02] Preparação do Banco de Dados](https://github.com/fga-eps-mds/2022-2-CAPJu-Service/issues/5) | 13 |
-| [[Tarefa 03] Deletar uma anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/43) | 8 |
-| [[Tarefa - 05] Botão de criação de anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/44)| -- |
-| [[Tarefa - 18] Documentação do quadro de pareamentos](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/62) | 3 |
-| [[Tarefa - 19] Documentação dos protótipos desenvolvidos](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/63) | 3 |
-| [[Tarefa - 11] - Editar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/11)| -- |
-| [[Tarefa - 12] - Deletar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/12)| -- |
-| [[Tarefa - 03] Configurar etiquetas no Github](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/33)| -- |
+| Tarefas | Repositório | Planning Poker |
+| -- | :--: |  :--: |
+| [Botão de criação de anotação](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/45) | Interface | -- |
+| [Edição de anotação](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/43) | Interface | 13 |
+| [Deletar uma anotação](https://github.com/fga-eps-mds/2022-2-capju-interface/issues/44) | Interface | 5 |
+| [Documentação do quadro de pareamentos](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/62) | Doc | 3 |
+| [Documentação dos protótipos desenvolvido](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/63) | Doc | 3 |
+| [Remoção de componentes ligados a estatísticas](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/52) | Interface | 2 |
+| [Cobertura de testes para pagina Perfil de Acesso](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/51) | Interface | 5 |
+| [Atualizar documento de comunicação](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/101) | Doc | 1 |
+| [Atualização do documento de arquitetura](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/8) | Doc | 5 |
+| [Lean Inception](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/71) | Doc | 3 |
 
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 02/02/2023 | 0.1.0 | Criação do documento | Antônio Aldísio |
+| 05/02/2023 | 1.0.0 | Adição das atividades realizadas | Fernando M. |

@@ -11,32 +11,23 @@
 
 ### Objetivo
 
-Essa sprint teve com objetivo continuar as atividades de código.
+Essa sprint teve com objetivo o desenvolvimento das atividades ligadas a [HU-02], em conjunto com a evolução da migração de banco.
 
 ### Tarefas
 
-| Tarefas | Planning Poker |
-| -- |  :--: |
-| [[Tarefa - 07] - Adequação do microserviço ao escopo](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/9) | -- |
-| [Atualizar modelagem e corrigir documentação de Arquitetura](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/129) | 13 |
-| [Propagar alteração nos modelos](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/124) | 8 |
-| [Remover menção a casos de uso](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/128) | 21 |
-| [Migrar Banco de Dados e Remodelar Base de Dados](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/136) | 40 |
-| [[HU 03] - Autenticação dos usuários](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/94) | 8 |
-| [[HU - 01] - Gerenciar anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/41) | 13 |
-| [Adicionar certificados para https](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/issues/50) | 8 |
-| [[Tarefa - 10] - Ambiente de homolagação](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/38)| -- |
-| [[Tarefa - 09] - Ambiente de Desenvolvimento](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/37) | 21 |
-| [[Tarefa - 06] Integração do SonarQube na esteira de CICD](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/36) | 13 |
-| [[Tarefa - 02] Preparação do Banco de Dados](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/5)| 21 |
-| [Reestruturar os endpoints para se adaptar ao novo banco](https://github.com/fga-eps-mds/2022-2-CAPJu-service/issues/4)| -- |
-| [[Tarefa 03] Deletar uma anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-interface/issues/44)| 5 |
-| [[Tarefa - 02] Edição de anotação](https://github.com/fga-eps-mds/2022-2-CAPJu-interface/issues/43)| 13 |
-| [Alterar o identificador do usuário, no momento de login, de email para CPF (Backend)](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/126)| 8 |
-| [Alterar o identificador do usuário, no momento de login, de email para CPF (Frontend)](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/123)| 3 |
-| [Validar nome de usuário.](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/125)| -- |
-| [Checar se o CPF inserido pelo usuário é um CPF válido (BACKEND)](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/119)| -- |
-| [Adicionar campo (obrigatório) de CPF no cadastro de um usuário](https://github.com/fga-eps-mds/2022-2-CAPJu-doc/issues/120)| -- |
+
+| Tarefas | Repositório | Planning Poker |
+| -- | :--: |  :--: |
+| [Adicionar campo (obrigatório) de CPF no cadastro de um usuário](https://github.com/fga-eps-mds/2022-2-CAPJu-Interface/pull/57) | Interface | -- |
+| [Alterar o identificador do usuário, no momento de login, de email para CPF](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/123) | Interface | 3 |
+| [Alterar o identificador do usuário, no momento de login, de email para CPF (Backend)](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/126) | Backend | 8 |
+| [Validar nome de usuário](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/125) | Interface | -- |
+| [Validar nome de usuário (Backend)](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/127) | Backend | -- |
+| [Alteração do endpoint de cadastro e edição de fluxos](https://github.com/fga-eps-mds/2022-2-CAPJu-Service/pull/20) | Service | -- |
+| [Prototipação do cadastro de usuários em um fluxo](https://www.figma.com/file/NGxjqQynfoDgIbCqeefvW4/Capju-2022-2?node-id=0%3A1&t=xJjZtoHFw2w4uYeV-1) | Interface | -- |
+| [[Tarefa - 06] Integração do SonarQube na esteira de CICD](https://github.com/fga-eps-mds/2022-2-CAPJu-Doc/issues/36) | DevOps | -- |
+| [Migrar Banco de Dados e Remodelar Base de Dados](https://github.com/fga-eps-mds/2022-2-capju-doc/issues/136) | Service | 40 |
+
 
 
 ## Histórico de versão
@@ -44,3 +35,4 @@ Essa sprint teve com objetivo continuar as atividades de código.
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 02/02/2023 | 0.1.0 | Criação do documento | Antônio Aldísio |
+| 05/02/2023 | 1.0.0 | Adição das atividades realizadas | Fernando M. |
