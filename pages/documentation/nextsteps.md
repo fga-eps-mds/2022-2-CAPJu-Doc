@@ -12,6 +12,13 @@ No repositório da [interface](https://github.com/fga-eps-mds/2022-2-CAPJu-Inter
 - Aumento de cobertura de teste;
 - Realizar teste de cobertura de borda;
 - Ajustar tempo do token;
+- Modularizar o código;
+- Utilizar componentização:
+    - Principalmente nas modais do sistema;
+- Padronizar coluna de ações em todas as tabelas;
+- Adicionar opção de deletar unidade(Conferir com o cliente);
+- Corrigir endpoint de recuperação de fluxos(retornar lista de usuários cadastrados);
+- Melhorar visual das dropdowns do sistema(gerar protótipo e apresentar pro cliente);
 
 ## 3. Back-End
 
@@ -36,3 +43,4 @@ No repositório do [service](https://github.com/fga-eps-mds/2022-2-CAPJu-service
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 03/02/2023 | 0.1.0 | Criação do documento | Antônio Aldísio |
+| 06/02/2023 | 1.0.0 | Revisão do documento | Fernando M.     |
