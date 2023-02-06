@@ -15,7 +15,7 @@ O custo previsto de energia elétrica considerou o preço do kW/h residencial de
 
 A partir das informações mencionadas, construiu-se uma planilha de custos estimados do projeto, que está disponível na figura abaixo.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubhtml?gid=602157328&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubhtml?gid=602157328&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Histórico de Versão
 
@@ -23,7 +23,8 @@ A partir das informações mencionadas, construiu-se uma planilha de custos esti
 | ---------- | ------ | ---------------------------------------------------- | -------------------------------------------- |
 | 22/06/2022 | 0.1.0  | Criação do Documento                                 | Lude Ribeiro                                 |
 | 04/02/2023 | 0.1.1  | Correção de links e de texto                         | Davi Antônio                                 |
-| 05/02/2023 | 0.2.0  | Reescrita e correção de valor do custo por estudante | Davi Antônio                                 |
+| 05/02/2023 | 0.2.0  | Reescrita e correção de valor do custo por estudante | Davi Antônio |
+| 05/02/2023 | 0.2.1  | Revisão do Documento |  Antônio Aldísio|
 
 ## Referências
 
